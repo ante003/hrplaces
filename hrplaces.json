@@ -1,0 +1,6351 @@
+[
+  {
+    "Zip": 32270,
+    "Name": "Županja",
+    "Latitude": 45.072074,
+    "Longitude": 18.694507199999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20275,
+    "Name": "Žrnovo",
+    "Latitude": 42.9239012,
+    "Longitude": 17.11300700000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22236,
+    "Name": "Žirje",
+    "Latitude": 43.6504743,
+    "Longitude": 15.658848499999976,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21266,
+    "Name": "Zmijavci",
+    "Latitude": 43.4120877,
+    "Longitude": 17.213448200000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31307,
+    "Name": "Zmajevac",
+    "Latitude": 45.7867519,
+    "Longitude": 18.864130799999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51324,
+    "Name": "Zlobin",
+    "Latitude": 45.2938153,
+    "Longitude": 14.65358040000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22232,
+    "Name": "Zlarin",
+    "Latitude": 43.68955769999999,
+    "Longitude": 15.846643699999959,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20235,
+    "Name": "Zaton Veliki",
+    "Latitude": 38.9145001,
+    "Longitude": -77.04612099999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21334,
+    "Name": "Zaostrog",
+    "Latitude": 43.141265,
+    "Longitude": 17.279046600000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10110,
+    "Name": "Zagreb",
+    "Latitude": 45.791656,
+    "Longitude": 15.932668000000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10090,
+    "Name": "Zagreb - Susedgrad",
+    "Latitude": 45.8210495,
+    "Longitude": 15.831005699999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10040,
+    "Name": "Zagreb - Dubrava",
+    "Latitude": 45.8347395,
+    "Longitude": 16.06243100000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21463,
+    "Name": "Vrboska",
+    "Latitude": 43.1809927,
+    "Longitude": 16.672243500000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32254,
+    "Name": "Vrbanja",
+    "Latitude": 44.981645,
+    "Longitude": 18.927386999999953,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31220,
+    "Name": "Višnjevac",
+    "Latitude": 45.5677292,
+    "Longitude": 18.614907300000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31401,
+    "Name": "Viškovci",
+    "Latitude": 45.3424408,
+    "Longitude": 18.459061099999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21226,
+    "Name": "Vinišće",
+    "Latitude": 43.4898876,
+    "Longitude": 16.12869009999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10408,
+    "Name": "Velika Mlaka",
+    "Latitude": 45.73619619999999,
+    "Longitude": 16.02806190000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51551,
+    "Name": "Veli Lošinj",
+    "Latitude": 44.5192931,
+    "Longitude": 14.502546499999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51562,
+    "Name": "Unije",
+    "Latitude": 44.633333,
+    "Longitude": 14.25,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21325,
+    "Name": "Tučepi",
+    "Latitude": 43.285793,
+    "Longitude": 17.08937979999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20245,
+    "Name": "Trstenik",
+    "Latitude": 42.9177873,
+    "Longitude": 17.399593800000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32224,
+    "Name": "Trpinja",
+    "Latitude": 45.4191671,
+    "Longitude": 18.89915110000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22212,
+    "Name": "Tribunj",
+    "Latitude": 43.7569503,
+    "Longitude": 15.747565500000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23245,
+    "Name": "Tribanj",
+    "Latitude": 44.3496933,
+    "Longitude": 15.316525899999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32249,
+    "Name": "Tovarnik",
+    "Latitude": 45.1596128,
+    "Longitude": 19.16213229999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52233,
+    "Name": "Šušnjevica",
+    "Latitude": 45.24926139999999,
+    "Longitude": 14.143882399999939,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32274,
+    "Name": "Štitar",
+    "Latitude": 45.0952412,
+    "Longitude": 18.640757200000053,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51263,
+    "Name": "Šmrika",
+    "Latitude": 45.2473013,
+    "Longitude": 14.602611900000056,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22030,
+    "Name": "Šibenik - Zablaće",
+    "Latitude": 43.705112,
+    "Longitude": 15.868160999999986,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32234,
+    "Name": "Šarengrad",
+    "Latitude": 45.2311027,
+    "Longitude": 19.28003369999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21462,
+    "Name": "Vrbanj",
+    "Latitude": 43.1692147,
+    "Longitude": 16.646814800000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52404,
+    "Name": "Sveti Petar u Šumi",
+    "Latitude": 45.18338610000001,
+    "Longitude": 13.861424299999953,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31308,
+    "Name": "Suza",
+    "Latitude": 45.7818197,
+    "Longitude": 18.775472900000068,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21403,
+    "Name": "Sutivan",
+    "Latitude": 43.38471879999999,
+    "Longitude": 16.479021099999954,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21247,
+    "Name": "Neorić",
+    "Latitude": 43.6759693,
+    "Longitude": 16.52314130000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51561,
+    "Name": "Susak",
+    "Latitude": 44.5076764,
+    "Longitude": 14.3038411,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20223,
+    "Name": "Šipanska Luka",
+    "Latitude": 42.7290478,
+    "Longitude": 17.86309080000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21469,
+    "Name": "Sućuraj",
+    "Latitude": 43.1265922,
+    "Longitude": 17.187690999999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21265,
+    "Name": "Studenci",
+    "Latitude": 43.5295117,
+    "Longitude": 17.028582599999936,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32256,
+    "Name": "Strošinci",
+    "Latitude": 44.946954,
+    "Longitude": 19.077314800000067,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21311,
+    "Name": "Stobreč",
+    "Latitude": 43.5039342,
+    "Longitude": 16.523779200000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20345,
+    "Name": "Staševica",
+    "Latitude": 43.1385295,
+    "Longitude": 17.402624400000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21292,
+    "Name": "Srinjine",
+    "Latitude": 43.486492,
+    "Longitude": 16.59965950000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22211,
+    "Name": "Vodice",
+    "Latitude": 43.7611122,
+    "Longitude": 15.778759900000068,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42209,
+    "Name": "Sračinec",
+    "Latitude": 46.3322022,
+    "Longitude": 16.27113989999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33525,
+    "Name": "Sopje",
+    "Latitude": 45.8067527,
+    "Longitude": 17.76568980000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32255,
+    "Name": "Soljani",
+    "Latitude": 44.9597766,
+    "Longitude": 19.00300519999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20272,
+    "Name": "Smokvica",
+    "Latitude": 42.9286374,
+    "Longitude": 16.89400820000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10000,
+    "Name": "Zagreb",
+    "Latitude": 45.8348464,
+    "Longitude": 15.970761000000039,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23247,
+    "Name": "Vinjerac",
+    "Latitude": 44.2558972,
+    "Longitude": 15.463359699999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35255,
+    "Name": "Slavonski Kobaš",
+    "Latitude": 45.1004514,
+    "Longitude": 17.738549599999942,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35000,
+    "Name": "Slavonski Brod",
+    "Latitude": 45.1643622,
+    "Longitude": 18.0114006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32242,
+    "Name": "Slakovci",
+    "Latitude": 45.2263948,
+    "Longitude": 18.951887599999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23295,
+    "Name": "Silba",
+    "Latitude": 44.3997441,
+    "Longitude": 14.684342900000047,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53270,
+    "Name": "Senj",
+    "Latitude": 44.9893604,
+    "Longitude": 14.903605200000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31415,
+    "Name": "Selci Đakovački",
+    "Latitude": 45.3075451,
+    "Longitude": 18.345042299999932,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51266,
+    "Name": "Selce",
+    "Latitude": 45.1536567,
+    "Longitude": 14.733594100000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23281,
+    "Name": "Sali",
+    "Latitude": 43.9239441,
+    "Longitude": 15.16683260000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52210,
+    "Name": "Rovinj",
+    "Latitude": 45.0811661,
+    "Longitude": 13.638706700000057,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20343,
+    "Name": "Rogotin",
+    "Latitude": 43.0468909,
+    "Longitude": 17.475767200000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23291,
+    "Name": "Sestrunj",
+    "Latitude": 44.15258739999999,
+    "Longitude": 14.993564600000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51000,
+    "Name": "Rijeka",
+    "Latitude": 45.3270631,
+    "Longitude": 14.442176000000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21267,
+    "Name": "Ričice",
+    "Latitude": 43.5145358,
+    "Longitude": 17.095286399999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23283,
+    "Name": "Rava",
+    "Latitude": 44.021941,
+    "Longitude": 15.066385999999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21273,
+    "Name": "Župa",
+    "Latitude": 43.3236084,
+    "Longitude": 17.131946500000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32261,
+    "Name": "Rajevo Selo",
+    "Latitude": 44.9244839,
+    "Longitude": 18.776800500000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20264,
+    "Name": "Račišće",
+    "Latitude": 42.9727403,
+    "Longitude": 17.021734400000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32262,
+    "Name": "Račinovci",
+    "Latitude": 44.8693199,
+    "Longitude": 18.96842570000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52221,
+    "Name": "Rabac",
+    "Latitude": 45.0842815,
+    "Longitude": 14.161285799999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20274,
+    "Name": "Pupnat",
+    "Latitude": 42.9504954,
+    "Longitude": 17.035937500000045,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51521,
+    "Name": "Punat",
+    "Latitude": 45.020739,
+    "Longitude": 14.63159619999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21412,
+    "Name": "Pučišća",
+    "Latitude": 43.3430743,
+    "Longitude": 16.711670000000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22234,
+    "Name": "Prvić Šepurine",
+    "Latitude": 43.7339018,
+    "Longitude": 15.789404500000046,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22233,
+    "Name": "Prvić Luka",
+    "Latitude": 43.7248151,
+    "Longitude": 15.804079600000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20352,
+    "Name": "Vid",
+    "Latitude": 43.0795721,
+    "Longitude": 17.625765099999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21323,
+    "Name": "Promajna",
+    "Latitude": 43.3376701,
+    "Longitude": 16.972755000000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32282,
+    "Name": "Retkovci",
+    "Latitude": 45.2331969,
+    "Longitude": 18.652818499999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23223,
+    "Name": "Škabrnja",
+    "Latitude": 44.0901895,
+    "Longitude": 15.451212499999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23233,
+    "Name": "Privlaka (Dalmacija)",
+    "Latitude": 37.6474638,
+    "Longitude": -77.62497339999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32251,
+    "Name": "Privlaka",
+    "Latitude": 45.1944161,
+    "Longitude": 18.83765679999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23226,
+    "Name": "Pridraga",
+    "Latitude": 44.1509604,
+    "Longitude": 15.584631299999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23294,
+    "Name": "Premuda",
+    "Latitude": 44.3247925,
+    "Longitude": 14.629422999999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51225,
+    "Name": "Praputnjak",
+    "Latitude": 45.3063199,
+    "Longitude": 14.572223699999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21413,
+    "Name": "Povlja",
+    "Latitude": 43.3340671,
+    "Longitude": 16.838060300000052,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20244,
+    "Name": "Potomje",
+    "Latitude": 42.9400534,
+    "Longitude": 17.33584910000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10311,
+    "Name": "Posavski Bregi",
+    "Latitude": 45.684222,
+    "Longitude": 16.351528499999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23235,
+    "Name": "Vrsi",
+    "Latitude": 44.2647784,
+    "Longitude": 15.232207399999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21466,
+    "Name": "Zastražišće",
+    "Latitude": 43.14255439999999,
+    "Longitude": 16.84684070000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23287,
+    "Name": "Veli Rat",
+    "Latitude": 44.14157030000001,
+    "Longitude": 14.852076600000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51515,
+    "Name": "Šilo",
+    "Latitude": 45.1456036,
+    "Longitude": 14.662256200000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35107,
+    "Name": "Podvinje",
+    "Latitude": 45.1897163,
+    "Longitude": 18.027502000000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21261,
+    "Name": "Runović",
+    "Latitude": 43.3870634,
+    "Longitude": 17.23991449999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32258,
+    "Name": "Posavski Podgajci",
+    "Latitude": 44.9489958,
+    "Longitude": 18.83125480000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49244,
+    "Name": "Stubičke Toplice",
+    "Latitude": 46.0710749,
+    "Longitude": 15.779567000000043,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32229,
+    "Name": "Petrovci",
+    "Latitude": 45.2878438,
+    "Longitude": 18.94677200000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31208,
+    "Name": "Petrijevci",
+    "Latitude": 45.614237,
+    "Longitude": 18.53672890000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31321,
+    "Name": "Petlovac",
+    "Latitude": 45.7585163,
+    "Longitude": 18.52807310000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48321,
+    "Name": "Peteranec",
+    "Latitude": 46.1939354,
+    "Longitude": 16.887376099999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20342,
+    "Name": "Otrić Seoci",
+    "Latitude": 43.1574915,
+    "Longitude": 17.461770699999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32252,
+    "Name": "Otok",
+    "Latitude": 45.1464084,
+    "Longitude": 18.883864899999935,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47302,
+    "Name": "Oštarije",
+    "Latitude": 45.2256179,
+    "Longitude": 15.274715000000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23273,
+    "Name": "Preko",
+    "Latitude": 44.08033020000001,
+    "Longitude": 15.187347799999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32211,
+    "Name": "Ostrovo",
+    "Latitude": 45.3366857,
+    "Longitude": 18.79032529999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35424,
+    "Name": "Orubica",
+    "Latitude": 45.1591871,
+    "Longitude": 17.470708100000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10434,
+    "Name": "Strmec Samoborski",
+    "Latitude": 45.814091,
+    "Longitude": 15.780594000000065,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40322,
+    "Name": "Orehovica",
+    "Latitude": 46.3329022,
+    "Longitude": 16.5065118,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20250,
+    "Name": "Orebić",
+    "Latitude": 42.9757655,
+    "Longitude": 17.17786369999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35213,
+    "Name": "Oprisavci",
+    "Latitude": 45.1460551,
+    "Longitude": 18.215998300000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51410,
+    "Name": "Opatija",
+    "Latitude": 45.33857390000001,
+    "Longitude": 14.30303989999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51513,
+    "Name": "Omišalj",
+    "Latitude": 45.2110039,
+    "Longitude": 14.556925299999989,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23296,
+    "Name": "Olib",
+    "Latitude": 44.3770231,
+    "Longitude": 14.785711300000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21223,
+    "Name": "Okrug Gornji",
+    "Latitude": 43.4947352,
+    "Longitude": 16.265312900000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51512,
+    "Name": "Njivice",
+    "Latitude": 45.159309,
+    "Longitude": 14.544022100000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48355,
+    "Name": "Novo Virje",
+    "Latitude": 46.0998352,
+    "Longitude": 17.148424200000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21425,
+    "Name": "Selca",
+    "Latitude": 43.2953798,
+    "Longitude": 16.84690009999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51250,
+    "Name": "Novi Vinodolski",
+    "Latitude": 45.12852549999999,
+    "Longitude": 14.789799200000061,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31417,
+    "Name": "Piškorevci",
+    "Latitude": 45.2545717,
+    "Longitude": 18.399311500000067,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32283,
+    "Name": "Vođinci",
+    "Latitude": 45.275775,
+    "Longitude": 18.609666500000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32241,
+    "Name": "Stari Jankovci",
+    "Latitude": 45.2598882,
+    "Longitude": 18.91036639999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10372,
+    "Name": "Oborovo",
+    "Latitude": 45.68404169999999,
+    "Longitude": 16.251887399999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48332,
+    "Name": "Ždala",
+    "Latitude": 46.16766990000001,
+    "Longitude": 17.14631320000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51554,
+    "Name": "Nerezine",
+    "Latitude": 44.6568745,
+    "Longitude": 14.395233899999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32239,
+    "Name": "Negoslavci",
+    "Latitude": 45.2781094,
+    "Longitude": 18.99724040000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35106,
+    "Name": "Slavonski Brod",
+    "Latitude": 45.151272,
+    "Longitude": 18.047326800000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44253,
+    "Name": "Mošćenica",
+    "Latitude": 45.4323675,
+    "Longitude": 16.356218799999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32233,
+    "Name": "Opatovac",
+    "Latitude": 45.2604317,
+    "Longitude": 19.17064800000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23244,
+    "Name": "Starigrad - Paklenica",
+    "Latitude": 44.296009,
+    "Longitude": 15.43864629999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32100,
+    "Name": "Vinkovci",
+    "Latitude": 45.2879058,
+    "Longitude": 18.805678100000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21400,
+    "Name": "Supetar",
+    "Latitude": 43.3832709,
+    "Longitude": 16.556356400000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21405,
+    "Name": "Milna",
+    "Latitude": 43.329041,
+    "Longitude": 16.458256000000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31410,
+    "Name": "Strizivojna",
+    "Latitude": 45.226057,
+    "Longitude": 18.432524599999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52203,
+    "Name": "Medulin",
+    "Latitude": 44.8221638,
+    "Longitude": 13.941727000000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21318,
+    "Name": "Mimice",
+    "Latitude": 43.40518609999999,
+    "Longitude": 16.809909300000072,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32213,
+    "Name": "Markušica",
+    "Latitude": 45.3740827,
+    "Longitude": 18.704673500000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43293,
+    "Name": "Veliki Zdenci",
+    "Latitude": 45.6644996,
+    "Longitude": 17.09100710000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23284,
+    "Name": "Veli Iž",
+    "Latitude": 44.0518077,
+    "Longitude": 15.107170799999949,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51550,
+    "Name": "Mali Lošinj",
+    "Latitude": 44.5315814,
+    "Longitude": 14.472042299999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51212,
+    "Name": "Vele Mune",
+    "Latitude": 45.45972769999999,
+    "Longitude": 14.164812900000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43282,
+    "Name": "Veliko Vukovje",
+    "Latitude": 45.5200684,
+    "Longitude": 16.887161399999968,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21300,
+    "Name": "Makarska",
+    "Latitude": 43.2937769,
+    "Longitude": 17.021523900000034,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21245,
+    "Name": "Tijarica",
+    "Latitude": 43.58350950000001,
+    "Longitude": 16.940990400000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35257,
+    "Name": "Lužani",
+    "Latitude": 45.1684784,
+    "Longitude": 17.69896229999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53294,
+    "Name": "Lun",
+    "Latitude": 44.6615922,
+    "Longitude": 14.771468899999945,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20263,
+    "Name": "Lumbarda",
+    "Latitude": 42.9219892,
+    "Longitude": 17.169592800000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23274,
+    "Name": "Lukoran",
+    "Latitude": 44.0956323,
+    "Longitude": 15.139016099999935,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23282,
+    "Name": "Žman",
+    "Latitude": 43.9654398,
+    "Longitude": 15.113670400000046,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49222,
+    "Name": "Poznanovec",
+    "Latitude": 46.0557105,
+    "Longitude": 16.045311200000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31328,
+    "Name": "Lug",
+    "Latitude": 45.6625897,
+    "Longitude": 18.75838550000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21257,
+    "Name": "Lovreć",
+    "Latitude": 43.4878022,
+    "Longitude": 16.994894499999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20269,
+    "Name": "Lovište",
+    "Latitude": 43.0233038,
+    "Longitude": 17.033611199999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32237,
+    "Name": "Lovas",
+    "Latitude": 45.2260059,
+    "Longitude": 19.168701000000056,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20222,
+    "Name": "Lopud",
+    "Latitude": 42.6855183,
+    "Longitude": 17.950220700000045,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51281,
+    "Name": "Lopar",
+    "Latitude": 44.8278003,
+    "Longitude": 14.731816500000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52204,
+    "Name": "Ližnjan",
+    "Latitude": 44.8285401,
+    "Longitude": 13.956398700000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32010,
+    "Name": "Vukovar",
+    "Latitude": 45.3876043,
+    "Longitude": 18.89668310000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10316,
+    "Name": "Lijevi Dubrovčak",
+    "Latitude": 45.6473966,
+    "Longitude": 16.34496349999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23234,
+    "Name": "Vir",
+    "Latitude": 44.3005078,
+    "Longitude": 15.085966800000051,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21201,
+    "Name": "Prgomet",
+    "Latitude": 43.6067498,
+    "Longitude": 16.230612500000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34311,
+    "Name": "Kuzmica",
+    "Latitude": 45.3294816,
+    "Longitude": 17.752249699999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35216,
+    "Name": "Prnjavor",
+    "Latitude": 45.1265925,
+    "Longitude": 18.342537100000072,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31555,
+    "Name": "Marijanci",
+    "Latitude": 45.6668617,
+    "Longitude": 18.292702299999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20243,
+    "Name": "Kuna",
+    "Latitude": 42.9675284,
+    "Longitude": 17.344774099999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52332,
+    "Name": "Pićan",
+    "Latitude": 45.2037983,
+    "Longitude": 14.040508999999929,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51227,
+    "Name": "Kukuljanovo",
+    "Latitude": 45.3336616,
+    "Longitude": 14.509195299999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23271,
+    "Name": "Kukljica",
+    "Latitude": 44.03287419999999,
+    "Longitude": 15.240262199999961,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20267,
+    "Name": "Kućište",
+    "Latitude": 42.9798175,
+    "Longitude": 17.12267250000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21209,
+    "Name": "Mravince",
+    "Latitude": 43.5327895,
+    "Longitude": 16.51603350000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21208,
+    "Name": "Kučiće",
+    "Latitude": 43.435559,
+    "Longitude": 16.807002300000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20341,
+    "Name": "Kula Norinska",
+    "Latitude": 43.0310887,
+    "Longitude": 17.603429000000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22204,
+    "Name": "Široke",
+    "Latitude": 43.595361,
+    "Longitude": 16.014087099999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35220,
+    "Name": "Slavonski Šamac",
+    "Latitude": 45.0652748,
+    "Longitude": 18.48715870000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21272,
+    "Name": "Slivno",
+    "Latitude": 43.3385821,
+    "Longitude": 17.231123499999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51500,
+    "Name": "Krk",
+    "Latitude": 45.0573865,
+    "Longitude": 14.539125399999989,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51241,
+    "Name": "Križišće",
+    "Latitude": 45.2607909,
+    "Longitude": 14.611041800000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53274,
+    "Name": "Krasno",
+    "Latitude": 44.8277934,
+    "Longitude": 15.088872300000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51224,
+    "Name": "Krasica",
+    "Latitude": 45.3113044,
+    "Longitude": 14.552290900000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52223,
+    "Name": "Raša",
+    "Latitude": 45.0804254,
+    "Longitude": 14.084586299999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51262,
+    "Name": "Kraljevica",
+    "Latitude": 45.2646668,
+    "Longitude": 14.5795071,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10296,
+    "Name": "Luka",
+    "Latitude": 45.9588806,
+    "Longitude": 15.820078500000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23212,
+    "Name": "Tkon",
+    "Latitude": 43.8980817,
+    "Longitude": 15.424380400000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23231,
+    "Name": "Petrčane",
+    "Latitude": 44.1874311,
+    "Longitude": 15.160096599999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44322,
+    "Name": "Lipovljani",
+    "Latitude": 45.39824429999999,
+    "Longitude": 16.894615799999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35400,
+    "Name": "Nova Gradiška",
+    "Latitude": 45.2581558,
+    "Longitude": 17.383962600000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40329,
+    "Name": "Kotoriba",
+    "Latitude": 46.3566732,
+    "Longitude": 16.81487590000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21207,
+    "Name": "Kostanje",
+    "Latitude": 43.43011509999999,
+    "Longitude": 16.788341599999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51216,
+    "Name": "Viškovo",
+    "Latitude": 45.3756926,
+    "Longitude": 14.383965499999931,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51517,
+    "Name": "Kornić",
+    "Latitude": 45.0468871,
+    "Longitude": 14.612616900000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22243,
+    "Name": "Murter",
+    "Latitude": 43.8083553,
+    "Longitude": 15.600202399999944,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20224,
+    "Name": "Maranovići",
+    "Latitude": 42.7149324,
+    "Longitude": 17.668323999999984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20260,
+    "Name": "Korčula",
+    "Latitude": 42.95428159999999,
+    "Longitude": 17.13072890000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48314,
+    "Name": "Koprivnički Ivanec",
+    "Latitude": 46.1993261,
+    "Longitude": 16.817308799999978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10315,
+    "Name": "Novoselec",
+    "Latitude": 45.6518526,
+    "Longitude": 16.535590100000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32253,
+    "Name": "Komletinci",
+    "Latitude": 45.1452956,
+    "Longitude": 18.936252200000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35420,
+    "Name": "Staro Petrovo Selo",
+    "Latitude": 45.2292737,
+    "Longitude": 17.521261900000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20221,
+    "Name": "Koločep",
+    "Latitude": 42.6785928,
+    "Longitude": 18.007667399999946,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43247,
+    "Name": "Narta",
+    "Latitude": 45.8355629,
+    "Longitude": 16.780042200000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31302,
+    "Name": "Kneževo",
+    "Latitude": 45.8452359,
+    "Longitude": 18.642581999999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35211,
+    "Name": "Trnjani",
+    "Latitude": 45.1864263,
+    "Longitude": 18.15066120000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31207,
+    "Name": "Tenja",
+    "Latitude": 45.501104,
+    "Longitude": 18.74970559999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21231,
+    "Name": "Klis",
+    "Latitude": 43.5601784,
+    "Longitude": 16.52076480000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21250,
+    "Name": "Šestanovac",
+    "Latitude": 43.45203739999999,
+    "Longitude": 16.910315399999945,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21212,
+    "Name": "Kaštel Sućurac",
+    "Latitude": 43.5577602,
+    "Longitude": 16.434697899999946,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21216,
+    "Name": "Kaštel Stari",
+    "Latitude": 43.5539876,
+    "Longitude": 16.34526070000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21217,
+    "Name": "Kaštel Štafilić",
+    "Latitude": 43.5518128,
+    "Longitude": 16.33166289999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21215,
+    "Name": "Kaštel Lukšić",
+    "Latitude": 43.5560061,
+    "Longitude": 16.36698339999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21214,
+    "Name": "Kaštel Kambelovac",
+    "Latitude": 43.5534143,
+    "Longitude": 16.38464590000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21213,
+    "Name": "Kaštel Gomilica",
+    "Latitude": 43.5555023,
+    "Longitude": 16.402309999999943,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43274,
+    "Name": "Severin",
+    "Latitude": 45.8404056,
+    "Longitude": 16.967982500000062,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22213,
+    "Name": "Pirovac",
+    "Latitude": 43.8205874,
+    "Longitude": 15.66785219999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52423,
+    "Name": "Karojba",
+    "Latitude": 45.30183419999999,
+    "Longitude": 13.823029200000065,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47203,
+    "Name": "Rečica",
+    "Latitude": 45.5075929,
+    "Longitude": 15.66281129999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31315,
+    "Name": "Karanac",
+    "Latitude": 45.7603491,
+    "Longitude": 18.68590979999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22235,
+    "Name": "Kaprije",
+    "Latitude": 43.6926465,
+    "Longitude": 15.708712800000058,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43283,
+    "Name": "Kaniška Iva",
+    "Latitude": 45.5287754,
+    "Longitude": 16.923204899999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21000,
+    "Name": "Split",
+    "Latitude": 43.5081323,
+    "Longitude": 16.440193499999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23272,
+    "Name": "Kali",
+    "Latitude": 44.0637628,
+    "Longitude": 15.20636730000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52231,
+    "Name": "Nedešćina",
+    "Latitude": 45.14216829999999,
+    "Longitude": 14.111507699999947,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23248,
+    "Name": "Ražanac",
+    "Latitude": 44.2821925,
+    "Longitude": 15.347819399999935,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31424,
+    "Name": "Punitovci",
+    "Latitude": 45.4329939,
+    "Longitude": 18.411346800000047,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31221,
+    "Name": "Josipovac",
+    "Latitude": 45.5742797,
+    "Longitude": 18.586606699999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10250,
+    "Name": "Lučko",
+    "Latitude": 45.7608012,
+    "Longitude": 15.884325200000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53262,
+    "Name": "Jezerane",
+    "Latitude": 45.0524427,
+    "Longitude": 15.20546539999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22242,
+    "Name": "Jezera",
+    "Latitude": 43.7847559,
+    "Longitude": 15.63538779999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52234,
+    "Name": "Plomin",
+    "Latitude": 45.1376674,
+    "Longitude": 14.180141100000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21314,
+    "Name": "Jesenice",
+    "Latitude": 43.4617173,
+    "Longitude": 16.598946599999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44324,
+    "Name": "Jasenovac",
+    "Latitude": 45.2707241,
+    "Longitude": 16.911411199999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43227,
+    "Name": "Šandrovac",
+    "Latitude": 45.9042859,
+    "Longitude": 17.029344000000037,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23243,
+    "Name": "Jasenice",
+    "Latitude": 44.2303222,
+    "Longitude": 15.574681599999963,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47314,
+    "Name": "Jasenak",
+    "Latitude": 45.231367,
+    "Longitude": 15.042638399999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35224,
+    "Name": "Sikirevci",
+    "Latitude": 45.1084464,
+    "Longitude": 18.464766999999938,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32280,
+    "Name": "Jarmina",
+    "Latitude": 45.3174648,
+    "Longitude": 18.731536600000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47304,
+    "Name": "Plaški",
+    "Latitude": 45.07754629999999,
+    "Longitude": 15.369235300000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43202,
+    "Name": "Zrinski Topolovac",
+    "Latitude": 46.02028869999999,
+    "Longitude": 16.757502499999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52333,
+    "Name": "Podpićan",
+    "Latitude": 45.1928971,
+    "Longitude": 14.095146600000021,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31324,
+    "Name": "Jagodnjak",
+    "Latitude": 45.7001607,
+    "Longitude": 18.580216800000017,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51264,
+    "Name": "Jadranovo",
+    "Latitude": 45.2220415,
+    "Longitude": 14.631222100000059,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53287,
+    "Name": "Jablanac",
+    "Latitude": 44.7066141,
+    "Longitude": 14.898011699999984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32281,
+    "Name": "Ivankovo",
+    "Latitude": 45.2882445,
+    "Longitude": 18.684113600000046,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10290,
+    "Name": "Zaprešić",
+    "Latitude": 45.8571742,
+    "Longitude": 15.804657700000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23293,
+    "Name": "Ist",
+    "Latitude": 44.2686663,
+    "Longitude": 14.753714100000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20205,
+    "Name": "Topolo",
+    "Latitude": 42.9089132,
+    "Longitude": 17.706394899999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42203,
+    "Name": "Jalžabet",
+    "Latitude": 46.2593041,
+    "Longitude": 16.47380850000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51552,
+    "Name": "Ilovik",
+    "Latitude": 44.4523198,
+    "Longitude": 14.551428299999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32236,
+    "Name": "Ilok",
+    "Latitude": 45.2220448,
+    "Longitude": 19.37523310000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32248,
+    "Name": "Ilača",
+    "Latitude": 45.1812992,
+    "Longitude": 19.098940999999968,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10297,
+    "Name": "Jakovlje",
+    "Latitude": 45.9363315,
+    "Longitude": 15.855113699999947,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21329,
+    "Name": "Igrane",
+    "Latitude": 43.1961689,
+    "Longitude": 17.13945130000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51414,
+    "Name": "Ičići",
+    "Latitude": 45.312713,
+    "Longitude": 14.28562839999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21450,
+    "Name": "Hvar",
+    "Latitude": 43.1729478,
+    "Longitude": 16.441113599999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42233,
+    "Name": "Sveti Đurđ",
+    "Latitude": 46.2839138,
+    "Longitude": 16.604020499999933,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10295,
+    "Name": "Kupljenovo",
+    "Latitude": 45.9286768,
+    "Longitude": 15.805126599999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10373,
+    "Name": "Ivanja Reka",
+    "Latitude": 45.7988223,
+    "Longitude": 16.117609399999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34335,
+    "Name": "Vetovo",
+    "Latitude": 45.4171859,
+    "Longitude": 17.79152590000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51226,
+    "Name": "Hreljin",
+    "Latitude": 45.29420990000001,
+    "Longitude": 14.591666400000008,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10299,
+    "Name": "Marija Gorica",
+    "Latitude": 45.9106876,
+    "Longitude": 15.725943700000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10436,
+    "Name": "Rakov Potok",
+    "Latitude": 45.7386432,
+    "Longitude": 15.797849199999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51316,
+    "Name": "Lokve",
+    "Latitude": 45.3583412,
+    "Longitude": 14.750827800000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51314,
+    "Name": "Ravna Gora",
+    "Latitude": 45.3746163,
+    "Longitude": 14.938118300000042,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31227,
+    "Name": "Zelčin",
+    "Latitude": 45.6157089,
+    "Longitude": 18.362102800000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51326,
+    "Name": "Vrbovsko",
+    "Latitude": 45.3747493,
+    "Longitude": 15.078054000000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33533,
+    "Name": "Pivnica Slavonska",
+    "Latitude": 45.7141245,
+    "Longitude": 17.48203220000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44203,
+    "Name": "Gušće",
+    "Latitude": 45.421118,
+    "Longitude": 16.57701780000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32260,
+    "Name": "Gunja",
+    "Latitude": 44.8874248,
+    "Longitude": 18.82535580000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35222,
+    "Name": "Gundinci",
+    "Latitude": 45.155883,
+    "Longitude": 18.49041639999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43251,
+    "Name": "Gudovac",
+    "Latitude": 45.8670655,
+    "Longitude": 16.78014010000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23275,
+    "Name": "Ugljan",
+    "Latitude": 44.1316723,
+    "Longitude": 15.103887399999962,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20215,
+    "Name": "Gruda",
+    "Latitude": 42.5176369,
+    "Longitude": 18.37138440000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21465,
+    "Name": "Jelsa",
+    "Latitude": 43.1617132,
+    "Longitude": 16.692637200000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20234,
+    "Name": "Orašac",
+    "Latitude": 42.7035292,
+    "Longitude": 18.006799099999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51556,
+    "Name": "Martinšćica",
+    "Latitude": 44.8195083,
+    "Longitude": 14.351737500000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23232,
+    "Name": "Nin",
+    "Latitude": 44.2423373,
+    "Longitude": 15.183694999999943,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32273,
+    "Name": "Gradište",
+    "Latitude": 45.1402839,
+    "Longitude": 18.738554499999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20270,
+    "Name": "Vela Luka",
+    "Latitude": 42.9592365,
+    "Longitude": 16.719110399999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21330,
+    "Name": "Gradac",
+    "Latitude": 43.1075186,
+    "Longitude": 17.342426400000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52403,
+    "Name": "Gračišće",
+    "Latitude": 45.2194242,
+    "Longitude": 14.00897610000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33405,
+    "Name": "Pitomača",
+    "Latitude": 45.9501067,
+    "Longitude": 17.232652099999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32232,
+    "Name": "Sotin",
+    "Latitude": 45.2961258,
+    "Longitude": 19.096599999999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21271,
+    "Name": "Grabovac",
+    "Latitude": 43.4286487,
+    "Longitude": 16.986810300000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23242,
+    "Name": "Posedarje",
+    "Latitude": 44.2120433,
+    "Longitude": 15.479086199999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31309,
+    "Name": "Kneževi Vinogradi",
+    "Latitude": 45.7515907,
+    "Longitude": 18.73747400000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21242,
+    "Name": "Grab",
+    "Latitude": 43.64763689999999,
+    "Longitude": 16.76069430000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21424,
+    "Name": "Pražnica",
+    "Latitude": 43.3203539,
+    "Longitude": 16.697317800000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35429,
+    "Name": "Gornji Bogićevci",
+    "Latitude": 45.2578188,
+    "Longitude": 17.23459379999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21432,
+    "Name": "Stomorska",
+    "Latitude": 43.3699384,
+    "Longitude": 16.35232700000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47286,
+    "Name": "Mahično",
+    "Latitude": 45.5540394,
+    "Longitude": 15.533538200000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10419,
+    "Name": "Vukovina",
+    "Latitude": 45.6826366,
+    "Longitude": 16.110112000000072,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42207,
+    "Name": "Vinica",
+    "Latitude": 46.3395131,
+    "Longitude": 16.15378929999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21327,
+    "Name": "Podgora",
+    "Latitude": 43.2395606,
+    "Longitude": 17.07822669999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33407,
+    "Name": "Gornje Bazje",
+    "Latitude": 45.9058411,
+    "Longitude": 17.44168220000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44316,
+    "Name": "Velika Ludina",
+    "Latitude": 45.606141,
+    "Longitude": 16.58952880000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21312,
+    "Name": "Podstrana",
+    "Latitude": 43.4858487,
+    "Longitude": 16.54938160000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53244,
+    "Name": "Lovinac",
+    "Latitude": 44.3913521,
+    "Longitude": 15.68601190000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43233,
+    "Name": "Trnovitički Popovac",
+    "Latitude": 45.6489093,
+    "Longitude": 16.8651787,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31422,
+    "Name": "Gorjani",
+    "Latitude": 45.398089,
+    "Longitude": 18.3761978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40324,
+    "Name": "Goričan",
+    "Latitude": 46.3833124,
+    "Longitude": 16.679286300000058,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49255,
+    "Name": "Novi Golubovec",
+    "Latitude": 46.1727087,
+    "Longitude": 15.98456729999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51327,
+    "Name": "Gomirje",
+    "Latitude": 45.3360759,
+    "Longitude": 15.120127400000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22301,
+    "Name": "Golubić",
+    "Latitude": 44.1083477,
+    "Longitude": 16.215059399999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48331,
+    "Name": "Gola",
+    "Latitude": 46.1977264,
+    "Longitude": 17.059320399999933,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49246,
+    "Name": "Marija Bistrica",
+    "Latitude": 46.004267,
+    "Longitude": 16.119074299999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53261,
+    "Name": "Križpolje",
+    "Latitude": 45.0258016,
+    "Longitude": 15.163666199999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20290,
+    "Name": "Lastovo",
+    "Latitude": 42.7671708,
+    "Longitude": 16.896229800000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21247,
+    "Name": "Neorić",
+    "Latitude": 43.6759693,
+    "Longitude": 16.52314130000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31530,
+    "Name": "Podravska Moslavina",
+    "Latitude": 45.7854084,
+    "Longitude": 17.981833499999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51304,
+    "Name": "Gerovo",
+    "Latitude": 45.5140164,
+    "Longitude": 14.641480900000033,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31554,
+    "Name": "Gat",
+    "Latitude": 45.7070454,
+    "Longitude": 18.326820699999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51302,
+    "Name": "Kuželj",
+    "Latitude": 45.4765661,
+    "Longitude": 14.80554219999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31421,
+    "Name": "Satnica Đakovačka",
+    "Latitude": 45.3532018,
+    "Longitude": 18.377091500000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21236,
+    "Name": "Vrlika",
+    "Latitude": 43.9087686,
+    "Longitude": 16.400059400000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51516,
+    "Name": "Vrbnik",
+    "Latitude": 45.0757288,
+    "Longitude": 14.675250399999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49224,
+    "Name": "Lepajci",
+    "Latitude": 46.1188349,
+    "Longitude": 15.894700599999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23222,
+    "Name": "Zemunik",
+    "Latitude": 44.1241678,
+    "Longitude": 15.3754725,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52216,
+    "Name": "Galižana",
+    "Latitude": 44.9335236,
+    "Longitude": 13.86831749999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52215,
+    "Name": "Vodnjan",
+    "Latitude": 44.9611645,
+    "Longitude": 13.85283949999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53291,
+    "Name": "Novalja",
+    "Latitude": 44.584109,
+    "Longitude": 14.857393099999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23251,
+    "Name": "Kolan",
+    "Latitude": 44.4965817,
+    "Longitude": 14.959171999999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22215,
+    "Name": "Zaton",
+    "Latitude": 43.7878623,
+    "Longitude": 15.822696599999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32212,
+    "Name": "Gaboš",
+    "Latitude": 45.347404,
+    "Longitude": 18.747165699999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48323,
+    "Name": "Hlebine",
+    "Latitude": 46.15392569999999,
+    "Longitude": 16.96731980000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52452,
+    "Name": "Funtana",
+    "Latitude": 45.1752258,
+    "Longitude": 13.605718000000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10343,
+    "Name": "Nova Kapela",
+    "Latitude": 45.8852896,
+    "Longitude": 16.574303800000052,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49252,
+    "Name": "Mihovljan",
+    "Latitude": 46.1342389,
+    "Longitude": 15.97097580000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52465,
+    "Name": "Tar",
+    "Latitude": 45.3010931,
+    "Longitude": 13.625741800000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31402,
+    "Name": "Semeljci",
+    "Latitude": 45.3613644,
+    "Longitude": 18.54221419999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40315,
+    "Name": "Mursko Središče",
+    "Latitude": 46.4783639,
+    "Longitude": 16.467697600000065,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31512,
+    "Name": "Feričanci",
+    "Latitude": 45.5233893,
+    "Longitude": 17.9765357,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48356,
+    "Name": "Ferdinandovac",
+    "Latitude": 46.0523136,
+    "Longitude": 17.201805700000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52212,
+    "Name": "Fažana",
+    "Latitude": 44.9248529,
+    "Longitude": 13.819873899999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49247,
+    "Name": "Zlatar Bistrica",
+    "Latitude": 46.0478586,
+    "Longitude": 16.084704800000054,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31206,
+    "Name": "Erdut",
+    "Latitude": 45.5248372,
+    "Longitude": 19.06009700000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20218,
+    "Name": "Pločice",
+    "Latitude": 42.4927891,
+    "Longitude": 18.411434699999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32263,
+    "Name": "Đurići",
+    "Latitude": 44.88316589999999,
+    "Longitude": 18.915798999999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43231,
+    "Name": "Ivanska",
+    "Latitude": 45.782315,
+    "Longitude": 16.805981900000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32284,
+    "Name": "Stari Mikanovci",
+    "Latitude": 45.2858404,
+    "Longitude": 18.55923000000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32244,
+    "Name": "Đeletovci",
+    "Latitude": 45.17951679999999,
+    "Longitude": 19.005014899999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48316,
+    "Name": "Đelekovec",
+    "Latitude": 46.2481214,
+    "Longitude": 16.868932599999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22203,
+    "Name": "Rogoznica",
+    "Latitude": 43.535286,
+    "Longitude": 15.966746999999941,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21255,
+    "Name": "Zadvarje",
+    "Latitude": 43.4324568,
+    "Longitude": 16.891624800000045,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40305,
+    "Name": "Nedelišće",
+    "Latitude": 46.3762896,
+    "Longitude": 16.38551659999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10341,
+    "Name": "Lonjica",
+    "Latitude": 45.85823509999999,
+    "Longitude": 16.32647940000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21204,
+    "Name": "Dugopolje",
+    "Latitude": 43.582096,
+    "Longitude": 16.59891170000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21315,
+    "Name": "Dugi Rat",
+    "Latitude": 43.4447435,
+    "Longitude": 16.64386730000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20000,
+    "Name": "Dubrovnik",
+    "Latitude": 42.6586378,
+    "Longitude": 18.10136369999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20216,
+    "Name": "Dubravka",
+    "Latitude": 42.5363624,
+    "Longitude": 18.42460690000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20350,
+    "Name": "Metković",
+    "Latitude": 43.05328009999999,
+    "Longitude": 17.64934310000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42244,
+    "Name": "Klenovnik",
+    "Latitude": 46.2702728,
+    "Longitude": 16.076909600000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20247,
+    "Name": "Žuljana",
+    "Latitude": 42.8914388,
+    "Longitude": 17.45522619999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21252,
+    "Name": "Tugare",
+    "Latitude": 43.4724707,
+    "Longitude": 16.65042900000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42231,
+    "Name": "Mali Bukovec",
+    "Latitude": 46.28827949999999,
+    "Longitude": 16.736479299999928,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10383,
+    "Name": "Komin",
+    "Latitude": 46.0025476,
+    "Longitude": 16.283484999999928,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31304,
+    "Name": "Duboševica",
+    "Latitude": 45.8848436,
+    "Longitude": 18.696371399999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20356,
+    "Name": "Klek",
+    "Latitude": 42.945365,
+    "Longitude": 17.563541100000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40321,
+    "Name": "Mala Subotica",
+    "Latitude": 46.3751433,
+    "Longitude": 16.528852099999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21225,
+    "Name": "Drvenik Veliki",
+    "Latitude": 43.4489303,
+    "Longitude": 16.152212599999984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20217,
+    "Name": "Pridvorje",
+    "Latitude": 42.5510961,
+    "Longitude": 18.349697300000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21333,
+    "Name": "Drvenik",
+    "Latitude": 43.1560519,
+    "Longitude": 17.246320100000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42206,
+    "Name": "Petrijanec",
+    "Latitude": 46.3455757,
+    "Longitude": 16.228201600000034,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21262,
+    "Name": "Kamenmost",
+    "Latitude": 43.4249522,
+    "Longitude": 17.185957299999927,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32257,
+    "Name": "Drenovci",
+    "Latitude": 44.9165199,
+    "Longitude": 18.917947000000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34315,
+    "Name": "Ratkovica",
+    "Latitude": 45.22915860000001,
+    "Longitude": 17.720971200000008,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44325,
+    "Name": "Krapje",
+    "Latitude": 45.2973353,
+    "Longitude": 16.82933550000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21277,
+    "Name": "Veliki Prolog",
+    "Latitude": 43.1778706,
+    "Longitude": 17.429840600000034,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31305,
+    "Name": "Draž",
+    "Latitude": 45.83372,
+    "Longitude": 18.79026429999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21328,
+    "Name": "Drašnice",
+    "Latitude": 43.220141,
+    "Longitude": 17.112284700000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49294,
+    "Name": "Kraljevec na Sutli",
+    "Latitude": 45.9922178,
+    "Longitude": 15.723844800000052,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51265,
+    "Name": "Dramalj",
+    "Latitude": 45.2057382,
+    "Longitude": 14.664485900000045,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31411,
+    "Name": "Trnava",
+    "Latitude": 45.2601564,
+    "Longitude": 18.253228799999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21275,
+    "Name": "Dragljane",
+    "Latitude": 43.2319071,
+    "Longitude": 17.2421468,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23211,
+    "Name": "Pakoštane",
+    "Latitude": 43.9071991,
+    "Longitude": 15.508884200000011,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51522,
+    "Name": "Draga Bašćanska",
+    "Latitude": 44.9954711,
+    "Longitude": 14.716408999999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22202,
+    "Name": "Primošten",
+    "Latitude": 43.586316,
+    "Longitude": 15.923015599999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23241,
+    "Name": "Poličnik",
+    "Latitude": 44.1775584,
+    "Longitude": 15.374727500000063,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51221,
+    "Name": "Kostrena",
+    "Latitude": 45.2992599,
+    "Longitude": 14.510126000000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31404,
+    "Name": "Vladislavci",
+    "Latitude": 45.4604715,
+    "Longitude": 18.572337500000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51303,
+    "Name": "Plešce",
+    "Latitude": 45.5467941,
+    "Longitude": 14.68629599999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21260,
+    "Name": "Imotski",
+    "Latitude": 43.4471085,
+    "Longitude": 17.21399889999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40327,
+    "Name": "Donji Vidovec",
+    "Latitude": 46.32945429999999,
+    "Longitude": 16.78563269999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35435,
+    "Name": "Stara Gradiška",
+    "Latitude": 45.1497393,
+    "Longitude": 17.242187100000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53233,
+    "Name": "Ličko Petrovo Selo",
+    "Latitude": 44.8803813,
+    "Longitude": 15.711869699999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49295,
+    "Name": "Kumrovec",
+    "Latitude": 46.0764375,
+    "Longitude": 15.680309099999931,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10310,
+    "Name": "Ivanić Grad",
+    "Latitude": 45.7071022,
+    "Longitude": 16.39597649999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10255,
+    "Name": "Gornji Stupnik",
+    "Latitude": 45.7525985,
+    "Longitude": 15.842802300000017,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21264,
+    "Name": "Donji Proložac",
+    "Latitude": 43.4656964,
+    "Longitude": 17.155991299999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40326,
+    "Name": "Sveta Marija",
+    "Latitude": 46.33153919999999,
+    "Longitude": 16.743606999999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53236,
+    "Name": "Podlapača",
+    "Latitude": 44.5848376,
+    "Longitude": 15.631244000000038,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49225,
+    "Name": "Đurmanec",
+    "Latitude": 46.1968062,
+    "Longitude": 15.838170399999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10292,
+    "Name": "Šenkovec",
+    "Latitude": 45.8929566,
+    "Longitude": 15.695630800000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42000,
+    "Name": "Varaždin",
+    "Latitude": 46.2897401,
+    "Longitude": 16.34278459999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51417,
+    "Name": "Mošćenička Draga",
+    "Latitude": 45.2392298,
+    "Longitude": 14.253373600000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53203,
+    "Name": "Kosinj",
+    "Latitude": 44.736389,
+    "Longitude": 15.276666999999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21423,
+    "Name": "Nerežišća",
+    "Latitude": 43.3312803,
+    "Longitude": 16.575255500000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40320,
+    "Name": "Donji Kraljevec",
+    "Latitude": 46.3673907,
+    "Longitude": 16.64698039999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21205,
+    "Name": "Donji Dolac",
+    "Latitude": 43.5434002,
+    "Longitude": 16.680927600000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35428,
+    "Name": "Dragalić",
+    "Latitude": 45.2467963,
+    "Longitude": 17.28890100000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53223,
+    "Name": "Vrhovine",
+    "Latitude": 44.8514334,
+    "Longitude": 15.424672800000053,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48326,
+    "Name": "Virje",
+    "Latitude": 46.0688172,
+    "Longitude": 16.989002000000028,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21251,
+    "Name": "Žrnovnica",
+    "Latitude": 43.5211998,
+    "Longitude": 16.557865600000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21430,
+    "Name": "Grohote",
+    "Latitude": 43.3913996,
+    "Longitude": 16.28681729999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23207,
+    "Name": "Sveti Filip i Jakov",
+    "Latitude": 43.9621868,
+    "Longitude": 15.42844249999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10415,
+    "Name": "Novo Čiče",
+    "Latitude": 45.7046521,
+    "Longitude": 16.118957799999976,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53213,
+    "Name": "Donje Pazarište",
+    "Latitude": 44.650591,
+    "Longitude": 15.193541099999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32245,
+    "Name": "Nijemci",
+    "Latitude": 45.1399134,
+    "Longitude": 19.035608799999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47000,
+    "Name": "Karlovac",
+    "Latitude": 45.4928973,
+    "Longitude": 15.555268299999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42220,
+    "Name": "Novi Marof",
+    "Latitude": 46.1669272,
+    "Longitude": 16.33533460000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43532,
+    "Name": "Đulovac",
+    "Latitude": 45.662906,
+    "Longitude": 17.429552100000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20240,
+    "Name": "Trpanj",
+    "Latitude": 43.0079248,
+    "Longitude": 17.269843300000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35207,
+    "Name": "Gornja Vrba",
+    "Latitude": 45.1538276,
+    "Longitude": 18.063722600000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10346,
+    "Name": "Preseka",
+    "Latitude": 45.9745893,
+    "Longitude": 16.38721750000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49224,
+    "Name": "Lepajci",
+    "Latitude": 46.1188349,
+    "Longitude": 15.894700599999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47272,
+    "Name": "Ribnik",
+    "Latitude": 45.5773774,
+    "Longitude": 15.351053099999945,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49240,
+    "Name": "Donja Stubica",
+    "Latitude": 45.9799521,
+    "Longitude": 15.9725502,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31513,
+    "Name": "Donja Motičina",
+    "Latitude": 45.49473620000001,
+    "Longitude": 18.006484499999942,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10412,
+    "Name": "Donja Lomnica",
+    "Latitude": 45.7110849,
+    "Longitude": 16.022193499999958,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44317,
+    "Name": "Popovača",
+    "Latitude": 45.5713169,
+    "Longitude": 16.627394099999947,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23423,
+    "Name": "Polača",
+    "Latitude": 44.0173433,
+    "Longitude": 15.51835589999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44318,
+    "Name": "Voloder",
+    "Latitude": 45.548447,
+    "Longitude": 16.668832299999963,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40328,
+    "Name": "Donja Dubrava",
+    "Latitude": 46.3273336,
+    "Longitude": 16.818353399999978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35208,
+    "Name": "Ruščica",
+    "Latitude": 45.146855,
+    "Longitude": 18.07945319999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20242,
+    "Name": "Oskorušno",
+    "Latitude": 42.98173570000001,
+    "Longitude": 17.31984239999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49283,
+    "Name": "Hraščina - Trgovišće",
+    "Latitude": 46.10769639999999,
+    "Longitude": 16.21885569999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43226,
+    "Name": "Veliko Trojstvo",
+    "Latitude": 45.9329064,
+    "Longitude": 16.932843000000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43212,
+    "Name": "Rovišće",
+    "Latitude": 45.94599119999999,
+    "Longitude": 16.729944199999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35423,
+    "Name": "Vrbje",
+    "Latitude": 45.1874359,
+    "Longitude": 17.4182366,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10435,
+    "Name": "Sveti Martin pod Okićem",
+    "Latitude": 45.7487523,
+    "Longitude": 15.73687110000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21410,
+    "Name": "Postira",
+    "Latitude": 43.3755098,
+    "Longitude": 16.630912800000033,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21460,
+    "Name": "Stari Grad",
+    "Latitude": 43.18399580000001,
+    "Longitude": 16.59925050000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21222,
+    "Name": "Marina",
+    "Latitude": 43.51410370000001,
+    "Longitude": 16.10768669999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23264,
+    "Name": "Neviđane",
+    "Latitude": 43.9779073,
+    "Longitude": 15.343307500000037,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21263,
+    "Name": "Krivodol",
+    "Latitude": 43.4362882,
+    "Longitude": 17.122921799999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51415,
+    "Name": "Lovran",
+    "Latitude": 45.2969275,
+    "Longitude": 14.27237009999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21220,
+    "Name": "Trogir",
+    "Latitude": 43.51638699999999,
+    "Longitude": 16.250189399999954,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52206,
+    "Name": "Marčana",
+    "Latitude": 44.9565719,
+    "Longitude": 13.955107699999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35214,
+    "Name": "Donji Andrijevci",
+    "Latitude": 45.1885517,
+    "Longitude": 18.297187500000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31215,
+    "Name": "Ernestinovo",
+    "Latitude": 45.4514411,
+    "Longitude": 18.65893410000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23249,
+    "Name": "Povljana",
+    "Latitude": 44.3461794,
+    "Longitude": 15.112801399999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43211,
+    "Name": "Predavac",
+    "Latitude": 45.9380817,
+    "Longitude": 16.78066579999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43506,
+    "Name": "Dežanovac",
+    "Latitude": 45.5691045,
+    "Longitude": 17.086062200000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44201,
+    "Name": "Martinska Ves",
+    "Latitude": 45.5910889,
+    "Longitude": 16.37918769999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47307,
+    "Name": "Gornje Zagorje",
+    "Latitude": 45.18520650000001,
+    "Longitude": 15.248108699999989,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49216,
+    "Name": "Desinić",
+    "Latitude": 46.1473796,
+    "Longitude": 15.6679752,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10251,
+    "Name": "Hrvatski Leskovac",
+    "Latitude": 45.7437832,
+    "Longitude": 15.890500400000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48325,
+    "Name": "Novigrad Podravski",
+    "Latitude": 46.0759063,
+    "Longitude": 16.94986199999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51300,
+    "Name": "Delnice",
+    "Latitude": 45.3987305,
+    "Longitude": 14.801610799999935,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49251,
+    "Name": "Mače",
+    "Latitude": 46.0935171,
+    "Longitude": 16.042952000000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40318,
+    "Name": "Dekanovec",
+    "Latitude": 46.4466155,
+    "Longitude": 16.580294399999957,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51313,
+    "Name": "Kupjak",
+    "Latitude": 45.3939739,
+    "Longitude": 14.885601899999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23206,
+    "Name": "Sukošan",
+    "Latitude": 44.0470411,
+    "Longitude": 15.315002400000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22240,
+    "Name": "Tisno",
+    "Latitude": 43.7974664,
+    "Longitude": 15.64210920000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35425,
+    "Name": "Davor",
+    "Latitude": 45.1132944,
+    "Longitude": 17.511974699999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43272,
+    "Name": "Nova Rača",
+    "Latitude": 45.7995397,
+    "Longitude": 16.953580500000044,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31326,
+    "Name": "Darda",
+    "Latitude": 45.6250623,
+    "Longitude": 18.68921739999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22205,
+    "Name": "Perković",
+    "Latitude": 43.6701136,
+    "Longitude": 16.102953100000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20248,
+    "Name": "Putniković",
+    "Latitude": 42.8763241,
+    "Longitude": 17.528692200000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51329,
+    "Name": "Severin na Kupi",
+    "Latitude": 45.4203907,
+    "Longitude": 15.170730899999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31226,
+    "Name": "Dalj",
+    "Latitude": 45.4710267,
+    "Longitude": 18.964417300000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21233,
+    "Name": "Hrvace",
+    "Latitude": 43.75636189999999,
+    "Longitude": 16.620464399999946,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51564,
+    "Name": "Ćunski",
+    "Latitude": 44.5891884,
+    "Longitude": 14.409685699999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42222,
+    "Name": "Ljubeščica",
+    "Latitude": 46.15549739999999,
+    "Longitude": 16.42076320000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44430,
+    "Name": "Hrvatska Kostajnica",
+    "Latitude": 45.2280258,
+    "Longitude": 16.539636200000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40325,
+    "Name": "Draškovec",
+    "Latitude": 46.3461752,
+    "Longitude": 16.679913400000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53231,
+    "Name": "Plitvička Jezera",
+    "Latitude": 44.8807696,
+    "Longitude": 15.621083699999986,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31553,
+    "Name": "Črnkovci",
+    "Latitude": 45.7069061,
+    "Longitude": 18.29454110000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42204,
+    "Name": "Turčin",
+    "Latitude": 46.259273,
+    "Longitude": 16.3594061,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49217,
+    "Name": "Krapinske Toplice",
+    "Latitude": 46.0933376,
+    "Longitude": 15.83792589999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51514,
+    "Name": "Dobrinj",
+    "Latitude": 45.1473121,
+    "Longitude": 14.617904599999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21253,
+    "Name": "Gata",
+    "Latitude": 43.4652603,
+    "Longitude": 16.70170489999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48327,
+    "Name": "Molve",
+    "Latitude": 46.10612649999999,
+    "Longitude": 17.03633579999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20213,
+    "Name": "Čilipi",
+    "Latitude": 42.5480604,
+    "Longitude": 18.281084999999962,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44213,
+    "Name": "Kratečko",
+    "Latitude": 45.3946805,
+    "Longitude": 16.635830199999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42232,
+    "Name": "Donji Martijanec",
+    "Latitude": 46.2640724,
+    "Longitude": 16.540630299999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31431,
+    "Name": "Čepin",
+    "Latitude": 45.5237443,
+    "Longitude": 18.577044,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20231,
+    "Name": "Doli",
+    "Latitude": 42.8118176,
+    "Longitude": 17.79255569999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31325,
+    "Name": "Čeminac",
+    "Latitude": 45.6866044,
+    "Longitude": 18.66821570000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33000,
+    "Name": "Virovitica",
+    "Latitude": 45.8316463,
+    "Longitude": 17.38554290000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21317,
+    "Name": "Lokva Rogoznica",
+    "Latitude": 43.41568609999999,
+    "Longitude": 16.76804590000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52448,
+    "Name": "Sveti Lovreč",
+    "Latitude": 45.17619639999999,
+    "Longitude": 13.744277600000032,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44440,
+    "Name": "Dvor",
+    "Latitude": 45.0701528,
+    "Longitude": 16.377750200000037,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47246,
+    "Name": "Drežnik Grad",
+    "Latitude": 44.9461324,
+    "Longitude": 15.682583499999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20273,
+    "Name": "Čara",
+    "Latitude": 42.9358607,
+    "Longitude": 16.94176319999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53224,
+    "Name": "Ličko Lešće",
+    "Latitude": 44.8065363,
+    "Longitude": 15.321627400000011,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31543,
+    "Name": "Miholjački Poreč",
+    "Latitude": 45.6978069,
+    "Longitude": 18.19812879999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40000,
+    "Name": "Čakovec",
+    "Latitude": 46.3897383,
+    "Longitude": 16.437965299999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20236,
+    "Name": "Mokošica",
+    "Latitude": 42.6747679,
+    "Longitude": 18.092448999999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35210,
+    "Name": "Vrpolje",
+    "Latitude": 45.2101944,
+    "Longitude": 18.405391699999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34350,
+    "Name": "Čaglin",
+    "Latitude": 45.3508361,
+    "Longitude": 17.988119299999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33523,
+    "Name": "Čađavica",
+    "Latitude": 45.7429382,
+    "Longitude": 17.85608460000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21240,
+    "Name": "Trilj",
+    "Latitude": 43.61902569999999,
+    "Longitude": 16.723629800000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51306,
+    "Name": "Čabar",
+    "Latitude": 45.5943195,
+    "Longitude": 14.64707199999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42254,
+    "Name": "Trakošćan",
+    "Latitude": 46.2590314,
+    "Longitude": 15.946802899999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47262,
+    "Name": "Generalski Stol",
+    "Latitude": 45.3416921,
+    "Longitude": 15.375636999999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53273,
+    "Name": "Vratnik",
+    "Latitude": 44.9789123,
+    "Longitude": 15.006455899999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44010,
+    "Name": "Sisak - Caprag",
+    "Latitude": 45.44907300000001,
+    "Longitude": 16.37213500000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42250,
+    "Name": "Lepoglava",
+    "Latitude": 46.2075543,
+    "Longitude": 16.04358849999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21229,
+    "Name": "Crivac",
+    "Latitude": 43.7652095,
+    "Longitude": 16.37297920000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31531,
+    "Name": "Viljevo",
+    "Latitude": 45.7514038,
+    "Longitude": 18.063269200000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51557,
+    "Name": "Cres",
+    "Latitude": 44.9386701,
+    "Longitude": 14.42682990000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52208,
+    "Name": "Krnica",
+    "Latitude": 44.9727211,
+    "Longitude": 14.017457199999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21256,
+    "Name": "Cista Provo",
+    "Latitude": 43.5129249,
+    "Longitude": 16.94309670000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40323,
+    "Name": "Prelog",
+    "Latitude": 46.3367995,
+    "Longitude": 16.61501670000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43280,
+    "Name": "Garešnica",
+    "Latitude": 45.5742455,
+    "Longitude": 16.940774199999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22214,
+    "Name": "Čista Velika",
+    "Latitude": 43.8951697,
+    "Longitude": 15.765795700000012,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23452,
+    "Name": "Karin",
+    "Latitude": 44.104652,
+    "Longitude": 15.633555000000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22310,
+    "Name": "Kijevo",
+    "Latitude": 43.978872,
+    "Longitude": 16.356973100000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53288,
+    "Name": "Karlobag",
+    "Latitude": 44.5284238,
+    "Longitude": 15.072870500000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10418,
+    "Name": "Dubranec",
+    "Latitude": 45.6124801,
+    "Longitude": 15.968652799999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47241,
+    "Name": "Cerovac Vukmanički",
+    "Latitude": 45.4255517,
+    "Longitude": 15.606684800000039,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10457,
+    "Name": "Sošice",
+    "Latitude": 45.7510188,
+    "Longitude": 15.380910699999959,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32272,
+    "Name": "Cerna",
+    "Latitude": 45.189484,
+    "Longitude": 18.68736590000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32221,
+    "Name": "Nuštar",
+    "Latitude": 45.3325281,
+    "Longitude": 18.841491700000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22323,
+    "Name": "Unešić",
+    "Latitude": 43.7414594,
+    "Longitude": 16.184064499999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40317,
+    "Name": "Podturen",
+    "Latitude": 46.467064,
+    "Longitude": 16.545605000000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49253,
+    "Name": "Lobor",
+    "Latitude": 46.1502394,
+    "Longitude": 16.065745200000038,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53296,
+    "Name": "Zubovići",
+    "Latitude": 44.523398,
+    "Longitude": 14.97908540000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47303,
+    "Name": "Josipdol",
+    "Latitude": 45.194245,
+    "Longitude": 15.28880730000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48264,
+    "Name": "Kloštar Vojakovački",
+    "Latitude": 46.040966,
+    "Longitude": 16.62035739999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10313,
+    "Name": "Graberje Ivaničko",
+    "Latitude": 45.7098314,
+    "Longitude": 16.472726899999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53211,
+    "Name": "Smiljan",
+    "Latitude": 44.5637924,
+    "Longitude": 15.320402999999942,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10010,
+    "Name": "Zagreb - Sloboština",
+    "Latitude": 45.7655995,
+    "Longitude": 15.988396599999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10345,
+    "Name": "Gradec",
+    "Latitude": 45.9135379,
+    "Longitude": 16.479835099999946,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10417,
+    "Name": "Buševec",
+    "Latitude": 45.634072,
+    "Longitude": 16.11594839999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33404,
+    "Name": "Špišić Bukovica",
+    "Latitude": 45.8580458,
+    "Longitude": 17.30189740000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51325,
+    "Name": "Moravice",
+    "Latitude": 45.4254533,
+    "Longitude": 15.012090899999976,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10314,
+    "Name": "Križ",
+    "Latitude": 45.66426200000001,
+    "Longitude": 16.520632999999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47285,
+    "Name": "Radatovići",
+    "Latitude": 45.7126478,
+    "Longitude": 15.309639800000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35209,
+    "Name": "Bukovlje",
+    "Latitude": 45.1843032,
+    "Longitude": 18.067104299999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10298,
+    "Name": "Donja Bistra",
+    "Latitude": 45.9049032,
+    "Longitude": 15.853970900000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35403,
+    "Name": "Rešetari",
+    "Latitude": 45.2631218,
+    "Longitude": 17.423400600000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40314,
+    "Name": "Selnica",
+    "Latitude": 46.4938252,
+    "Longitude": 16.389008800000056,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10253,
+    "Name": "Donji Dragonožec",
+    "Latitude": 45.6616168,
+    "Longitude": 15.946871699999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53202,
+    "Name": "Perušić",
+    "Latitude": 44.6488611,
+    "Longitude": 15.38310899999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10411,
+    "Name": "Orle",
+    "Latitude": 45.6846334,
+    "Longitude": 16.23469130000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20355,
+    "Name": "Opuzen",
+    "Latitude": 43.0172612,
+    "Longitude": 17.56443349999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44435,
+    "Name": "Divuša",
+    "Latitude": 45.14250980000001,
+    "Longitude": 16.44453939999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31400,
+    "Name": "Đakovo",
+    "Latitude": 45.30999689999999,
+    "Longitude": 18.40978199999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48350,
+    "Name": "Đurđevac",
+    "Latitude": 46.0398758,
+    "Longitude": 17.071450300000038,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42205,
+    "Name": "Vidovec",
+    "Latitude": 46.2859171,
+    "Longitude": 16.242096800000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49284,
+    "Name": "Budinšćina",
+    "Latitude": 46.1631487,
+    "Longitude": 16.20069699999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42245,
+    "Name": "Donja Voća",
+    "Latitude": 46.2997659,
+    "Longitude": 16.10705089999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21243,
+    "Name": "Ugljane",
+    "Latitude": 43.5725843,
+    "Longitude": 16.760459800000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31432,
+    "Name": "Budimci",
+    "Latitude": 45.4613906,
+    "Longitude": 18.322658100000012,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10360,
+    "Name": "Sesvete",
+    "Latitude": 45.82724169999999,
+    "Longitude": 16.111253300000044,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44202,
+    "Name": "Topolovac",
+    "Latitude": 45.4593825,
+    "Longitude": 16.436487199999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33412,
+    "Name": "Cabuna",
+    "Latitude": 45.7596555,
+    "Longitude": 17.575604999999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48362,
+    "Name": "Kloštar Podravski",
+    "Latitude": 45.9837188,
+    "Longitude": 17.157082599999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53201,
+    "Name": "Lički Osik",
+    "Latitude": 44.6036158,
+    "Longitude": 15.424243599999954,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23440,
+    "Name": "Gračac",
+    "Latitude": 44.2990355,
+    "Longitude": 15.846216700000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21454,
+    "Name": "Brusje",
+    "Latitude": 43.1902219,
+    "Longitude": 16.50538000000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52474,
+    "Name": "Brtonigla",
+    "Latitude": 45.3789374,
+    "Longitude": 13.624675900000057,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21202,
+    "Name": "Lećevica",
+    "Latitude": 43.6429183,
+    "Longitude": 16.346602299999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32222,
+    "Name": "Bršadin",
+    "Latitude": 45.3614839,
+    "Longitude": 18.91090589999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20233,
+    "Name": "Trsteno",
+    "Latitude": 42.7153249,
+    "Longitude": 17.977324299999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51418,
+    "Name": "Brseč",
+    "Latitude": 45.1795231,
+    "Longitude": 14.235062999999968,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52222,
+    "Name": "Koromačno",
+    "Latitude": 44.9683634,
+    "Longitude": 14.122062700000015,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20210,
+    "Name": "Cavtat",
+    "Latitude": 42.5812683,
+    "Longitude": 18.217594100000042,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31223,
+    "Name": "Brođanci",
+    "Latitude": 45.544068,
+    "Longitude": 18.449585299999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35105,
+    "Name": "Slavonski Brod",
+    "Latitude": 45.1912335,
+    "Longitude": 17.994674099999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35201,
+    "Name": "Podcrkavlje",
+    "Latitude": 45.222871,
+    "Longitude": 18.011320899999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35253,
+    "Name": "Brodski Stupnik",
+    "Latitude": 45.1682201,
+    "Longitude": 17.815992199999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48363,
+    "Name": "Podravske Sesvete",
+    "Latitude": 46.00374980000001,
+    "Longitude": 17.214771799999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51312,
+    "Name": "Brod Moravice",
+    "Latitude": 45.4632122,
+    "Longitude": 14.970404300000041,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22221,
+    "Name": "Lozovac",
+    "Latitude": 43.80029469999999,
+    "Longitude": 15.9601136,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51215,
+    "Name": "Kastav",
+    "Latitude": 45.3715797,
+    "Longitude": 14.3504236,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21230,
+    "Name": "Sinj",
+    "Latitude": 43.702943,
+    "Longitude": 16.637528599999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53220,
+    "Name": "Otočac",
+    "Latitude": 44.8689344,
+    "Longitude": 15.237525000000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44273,
+    "Name": "Sela",
+    "Latitude": 45.5083081,
+    "Longitude": 16.304743400000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52424,
+    "Name": "Motovun",
+    "Latitude": 45.3359506,
+    "Longitude": 13.827860500000043,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21335,
+    "Name": "Podaca",
+    "Latitude": 43.12893200000001,
+    "Longitude": 17.343491599999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51305,
+    "Name": "Tršće",
+    "Latitude": 45.5666515,
+    "Longitude": 14.630121400000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53260,
+    "Name": "Brinje",
+    "Latitude": 44.9986892,
+    "Longitude": 15.129097399999978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20246,
+    "Name": "Janjina",
+    "Latitude": 42.9255224,
+    "Longitude": 17.429007400000046,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31000,
+    "Name": "Osijek",
+    "Latitude": 45.5549624,
+    "Longitude": 18.69551439999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51253,
+    "Name": "Bribir",
+    "Latitude": 45.1604718,
+    "Longitude": 14.772556699999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23292,
+    "Name": "Molat",
+    "Latitude": 44.24186,
+    "Longitude": 14.814905500000009,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21480,
+    "Name": "Vis",
+    "Latitude": 43.0421754,
+    "Longitude": 16.193383700000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52422,
+    "Name": "Lanišće",
+    "Latitude": 45.40782189999999,
+    "Longitude": 14.115678500000058,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52224,
+    "Name": "Trget",
+    "Latitude": 45.0215639,
+    "Longitude": 14.055894299999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44272,
+    "Name": "Lekenik",
+    "Latitude": 45.5853414,
+    "Longitude": 16.210077100000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33514,
+    "Name": "Čačinci",
+    "Latitude": 45.6001616,
+    "Longitude": 17.87416619999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40313,
+    "Name": "Sveti Martin na Muri",
+    "Latitude": 46.5248403,
+    "Longitude": 16.362607900000057,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49223,
+    "Name": "Sveti Križ Začretje",
+    "Latitude": 46.0822297,
+    "Longitude": 15.907143799999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49231,
+    "Name": "Hum na Sutli",
+    "Latitude": 46.21385249999999,
+    "Longitude": 15.690313400000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47313,
+    "Name": "Drežnica",
+    "Latitude": 45.1438365,
+    "Longitude": 15.112174500000037,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47276,
+    "Name": "Žakanje",
+    "Latitude": 45.6101611,
+    "Longitude": 15.337080499999956,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47281,
+    "Name": "Mali Erjavec",
+    "Latitude": 45.5755521,
+    "Longitude": 15.487605700000017,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31225,
+    "Name": "Breznica Našička",
+    "Latitude": 45.5357548,
+    "Longitude": 18.203602100000012,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10431,
+    "Name": "Sveta Nedjelja",
+    "Latitude": 45.7876089,
+    "Longitude": 15.79007230000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51311,
+    "Name": "Skrad",
+    "Latitude": 45.4314803,
+    "Longitude": 14.905421499999989,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40311,
+    "Name": "Lopatinec",
+    "Latitude": 46.4270811,
+    "Longitude": 16.387892700000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31500,
+    "Name": "Našice",
+    "Latitude": 45.4946861,
+    "Longitude": 18.09511180000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33406,
+    "Name": "Lukač",
+    "Latitude": 45.8739473,
+    "Longitude": 17.419092399999954,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10454,
+    "Name": "Krašić",
+    "Latitude": 45.6537064,
+    "Longitude": 15.517643099999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43252,
+    "Name": "Prgomelje",
+    "Latitude": 45.8883385,
+    "Longitude": 16.750334299999963,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51217,
+    "Name": "Klana",
+    "Latitude": 45.446434,
+    "Longitude": 14.37697849999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33507,
+    "Name": "Crnac",
+    "Latitude": 45.6925588,
+    "Longitude": 17.937938400000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53234,
+    "Name": "Udbina",
+    "Latitude": 44.53098680000001,
+    "Longitude": 15.765951800000039,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51213,
+    "Name": "Jurdani",
+    "Latitude": 45.3828249,
+    "Longitude": 14.314037600000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47300,
+    "Name": "Ogulin",
+    "Latitude": 45.265949,
+    "Longitude": 15.223881399999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44250,
+    "Name": "Petrinja",
+    "Latitude": 45.4422535,
+    "Longitude": 16.276859100000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52426,
+    "Name": "Lupoglav",
+    "Latitude": 45.3527949,
+    "Longitude": 14.107501599999978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21322,
+    "Name": "Brela",
+    "Latitude": 43.3685696,
+    "Longitude": 16.92990359999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10294,
+    "Name": "Donja Pušća",
+    "Latitude": 45.9136641,
+    "Longitude": 15.779961400000047,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49232,
+    "Name": "Radoboj",
+    "Latitude": 46.1656425,
+    "Longitude": 15.92087790000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51211,
+    "Name": "Matulji",
+    "Latitude": 45.36428739999999,
+    "Longitude": 14.325822499999958,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10257,
+    "Name": "Brezovica",
+    "Latitude": 45.7292368,
+    "Longitude": 15.910639800000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48306,
+    "Name": "Sokolovac",
+    "Latitude": 46.1064638,
+    "Longitude": 16.70958769999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43290,
+    "Name": "Grubišno Polje",
+    "Latitude": 45.7022123,
+    "Longitude": 17.172394499999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10291,
+    "Name": "Prigorje Brdovečko",
+    "Latitude": 45.879206,
+    "Longitude": 15.734756599999969,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47220,
+    "Name": "Vojnić",
+    "Latitude": 45.3250638,
+    "Longitude": 15.69623230000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49233,
+    "Name": "Gornje Jesenje",
+    "Latitude": 46.2078,
+    "Longitude": 15.90754979999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48214,
+    "Name": "Sveti Ivan Žabno",
+    "Latitude": 45.9454721,
+    "Longitude": 16.605569599999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52462,
+    "Name": "Momjan",
+    "Latitude": 45.4384515,
+    "Longitude": 13.708931099999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51214,
+    "Name": "Šapjane",
+    "Latitude": 45.4807097,
+    "Longitude": 14.251020700000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52444,
+    "Name": "Tinjan",
+    "Latitude": 45.2180218,
+    "Longitude": 13.839312899999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47261,
+    "Name": "Zvečaj",
+    "Latitude": 45.396469,
+    "Longitude": 15.430978099999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23285,
+    "Name": "Brbinj",
+    "Latitude": 44.0811509,
+    "Longitude": 14.99990200000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47282,
+    "Name": "Kamanje",
+    "Latitude": 45.6339857,
+    "Longitude": 15.394243500000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10451,
+    "Name": "Pisarovina",
+    "Latitude": 45.5880865,
+    "Longitude": 15.859200500000043,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10456,
+    "Name": "Kalje",
+    "Latitude": 45.75931560000001,
+    "Longitude": 15.472748499999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31303,
+    "Name": "Popovac",
+    "Latitude": 45.8061212,
+    "Longitude": 18.659507899999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31301,
+    "Name": "Branjin Vrh",
+    "Latitude": 45.801044,
+    "Longitude": 18.606099299999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21203,
+    "Name": "Donji Muć",
+    "Latitude": 43.6943218,
+    "Longitude": 16.462330299999962,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21206,
+    "Name": "Donje Ogorje",
+    "Latitude": 43.7456293,
+    "Longitude": 16.43754039999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31423,
+    "Name": "Bračevci",
+    "Latitude": 45.429763,
+    "Longitude": 18.277291500000047,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49210,
+    "Name": "Zabok",
+    "Latitude": 46.02589829999999,
+    "Longitude": 15.90380909999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23286,
+    "Name": "Božava",
+    "Latitude": 44.1408228,
+    "Longitude": 14.905582299999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48322,
+    "Name": "Drnje",
+    "Latitude": 46.20831,
+    "Longitude": 16.918263799999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48311,
+    "Name": "Kunovec",
+    "Latitude": 46.2014152,
+    "Longitude": 16.78055100000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10020,
+    "Name": "Zagreb - Novi Zagreb",
+    "Latitude": 45.7687429,
+    "Longitude": 15.94771209999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32275,
+    "Name": "Bošnjaci",
+    "Latitude": 45.0491757,
+    "Longitude": 18.756961899999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20207,
+    "Name": "Mlini",
+    "Latitude": 42.6227599,
+    "Longitude": 18.207803499999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52402,
+    "Name": "Cerovlje",
+    "Latitude": 45.2782679,
+    "Longitude": 14.012287799999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32227,
+    "Name": "Borovo",
+    "Latitude": 45.4020118,
+    "Longitude": 18.972915599999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21483,
+    "Name": "Podšpilje",
+    "Latitude": 43.0277957,
+    "Longitude": 16.137701300000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31418,
+    "Name": "Drenje",
+    "Latitude": 45.3802489,
+    "Longitude": 18.277489699999933,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20278,
+    "Name": "Nova Sela",
+    "Latitude": 43.1013311,
+    "Longitude": 17.558977000000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44323,
+    "Name": "Rajić",
+    "Latitude": 45.303929,
+    "Longitude": 17.107065799999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33410,
+    "Name": "Suhopolje",
+    "Latitude": 45.8022541,
+    "Longitude": 17.497171999999978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31416,
+    "Name": "Levanjska Varoš",
+    "Latitude": 45.3151289,
+    "Longitude": 18.180403599999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49250,
+    "Name": "Zlatar",
+    "Latitude": 46.0923484,
+    "Longitude": 16.076831500000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48269,
+    "Name": "Kalnik",
+    "Latitude": 46.1273533,
+    "Longitude": 16.464570099999946,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43505,
+    "Name": "Končanica",
+    "Latitude": 45.6378447,
+    "Longitude": 17.164596399999937,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42223,
+    "Name": "Varaždinske Toplice",
+    "Latitude": 46.21046219999999,
+    "Longitude": 16.42274729999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21310,
+    "Name": "Omiš",
+    "Latitude": 43.44335590000001,
+    "Longitude": 16.69291750000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22206,
+    "Name": "Boraja",
+    "Latitude": 38.8382463,
+    "Longitude": -77.09385829999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20230,
+    "Name": "Ston",
+    "Latitude": 42.8386685,
+    "Longitude": 17.696323500000062,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31323,
+    "Name": "Bolman",
+    "Latitude": 45.7226429,
+    "Longitude": 18.5183399,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10344,
+    "Name": "Farkaševac",
+    "Latitude": 45.8804624,
+    "Longitude": 16.635702100000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21420,
+    "Name": "Bol",
+    "Latitude": 43.2622347,
+    "Longitude": 16.654126399999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32238,
+    "Name": "Čakovci",
+    "Latitude": 45.2355226,
+    "Longitude": 19.058698999999933,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33522,
+    "Name": "Voćin",
+    "Latitude": 45.619798,
+    "Longitude": 17.54461230000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44000,
+    "Name": "Sisak",
+    "Latitude": 45.4850767,
+    "Longitude": 16.373115600000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49296,
+    "Name": "Zagorska Sela",
+    "Latitude": 46.0942525,
+    "Longitude": 15.635268900000028,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21467,
+    "Name": "Gdinj",
+    "Latitude": 43.1323664,
+    "Longitude": 16.942278399999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21227,
+    "Name": "Primorski Dolac",
+    "Latitude": 43.640807,
+    "Longitude": 16.165519000000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32000,
+    "Name": "Vukovar",
+    "Latitude": 45.3452377,
+    "Longitude": 19.001020400000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22324,
+    "Name": "Drinovci",
+    "Latitude": 43.8500404,
+    "Longitude": 16.0127248,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48267,
+    "Name": "Orehovec",
+    "Latitude": 46.0724959,
+    "Longitude": 16.458048400000052,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31552,
+    "Name": "Podgajci Podravski",
+    "Latitude": 45.731794,
+    "Longitude": 18.267416700000012,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49282,
+    "Name": "Konjščina",
+    "Latitude": 46.0532973,
+    "Longitude": 16.17826709999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31550,
+    "Name": "Valpovo",
+    "Latitude": 45.6590169,
+    "Longitude": 18.415552899999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49000,
+    "Name": "Krapina",
+    "Latitude": 46.160492,
+    "Longitude": 15.872410299999956,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21404,
+    "Name": "Ložišća",
+    "Latitude": 43.3484848,
+    "Longitude": 16.48155799999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10430,
+    "Name": "Samobor",
+    "Latitude": 45.8010928,
+    "Longitude": 15.71104809999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49290,
+    "Name": "Klanjec",
+    "Latitude": 46.0505909,
+    "Longitude": 15.744512399999962,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32225,
+    "Name": "Bobota",
+    "Latitude": 45.421902,
+    "Longitude": 18.85651210000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22303,
+    "Name": "Oklaj",
+    "Latitude": 43.9627845,
+    "Longitude": 16.076884000000064,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21228,
+    "Name": "Blizna Donja",
+    "Latitude": 43.5851109,
+    "Longitude": 16.098387000000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35414,
+    "Name": "Vrbova",
+    "Latitude": 45.2150955,
+    "Longitude": 17.583699300000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51328,
+    "Name": "Lukovdol",
+    "Latitude": 45.4280345,
+    "Longitude": 15.126608799999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44410,
+    "Name": "Gvozd",
+    "Latitude": 45.3532302,
+    "Longitude": 15.865071899999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21254,
+    "Name": "Blato na Cetini",
+    "Latitude": 43.4814788,
+    "Longitude": 16.843904199999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20271,
+    "Name": "Blato",
+    "Latitude": 42.9439694,
+    "Longitude": 16.7942405,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47204,
+    "Name": "Šišljavić",
+    "Latitude": 45.5260784,
+    "Longitude": 15.755267600000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43246,
+    "Name": "Štefanje",
+    "Latitude": 45.8054599,
+    "Longitude": 16.717737899999975,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52232,
+    "Name": "Kršan",
+    "Latitude": 45.17346670000001,
+    "Longitude": 14.13922249999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31540,
+    "Name": "Donji Miholjac",
+    "Latitude": 45.762142,
+    "Longitude": 18.16513789999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10362,
+    "Name": "Kašina",
+    "Latitude": 45.91131790000001,
+    "Longitude": 16.124253400000043,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43507,
+    "Name": "Uljanik",
+    "Latitude": 45.5343145,
+    "Longitude": 17.023472500000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20357,
+    "Name": "Blace",
+    "Latitude": 43.0016578,
+    "Longitude": 17.48014330000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21210,
+    "Name": "Solin",
+    "Latitude": 43.5422549,
+    "Longitude": 16.491963199999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43000,
+    "Name": "Bjelovar",
+    "Latitude": 45.8987972,
+    "Longitude": 16.84230930000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53230,
+    "Name": "Korenica",
+    "Latitude": 44.743965,
+    "Longitude": 15.706601299999988,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33518,
+    "Name": "Nova Bukovica",
+    "Latitude": 45.6614966,
+    "Longitude": 17.77167140000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34340,
+    "Name": "Kutjevo",
+    "Latitude": 45.42588139999999,
+    "Longitude": 17.883369899999934,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34551,
+    "Name": "Lipik",
+    "Latitude": 45.4142812,
+    "Longitude": 17.161192099999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34553,
+    "Name": "Bučje",
+    "Latitude": 45.465598,
+    "Longitude": 17.401062000000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31222,
+    "Name": "Bizovac",
+    "Latitude": 45.5924326,
+    "Longitude": 18.45961740000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21485,
+    "Name": "Komiža",
+    "Latitude": 43.0444596,
+    "Longitude": 16.091793199999984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44210,
+    "Name": "Sunja",
+    "Latitude": 45.3686282,
+    "Longitude": 16.567028499999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22300,
+    "Name": "Knin",
+    "Latitude": 44.0407757,
+    "Longitude": 16.196498799999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21232,
+    "Name": "Dicmo",
+    "Latitude": 43.635749,
+    "Longitude": 16.59338409999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42225,
+    "Name": "Breznički Hum",
+    "Latitude": 46.1087127,
+    "Longitude": 16.28412789999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53250,
+    "Name": "Donji Lapac",
+    "Latitude": 44.5544743,
+    "Longitude": 15.959125399999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22305,
+    "Name": "Kistanje",
+    "Latitude": 43.981047,
+    "Longitude": 15.962479600000052,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21244,
+    "Name": "Cista Velika",
+    "Latitude": 43.54283059999999,
+    "Longitude": 16.86510240000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21270,
+    "Name": "Zagvozd",
+    "Latitude": 43.39762820000001,
+    "Longitude": 17.054215,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23210,
+    "Name": "Biograd na Moru",
+    "Latitude": 43.9373047,
+    "Longitude": 15.44355859999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22321,
+    "Name": "Siverić",
+    "Latitude": 43.8782724,
+    "Longitude": 16.19315549999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53284,
+    "Name": "Sveti Juraj",
+    "Latitude": 44.9283423,
+    "Longitude": 14.920182999999952,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31327,
+    "Name": "Bilje",
+    "Latitude": 45.6044304,
+    "Longitude": 18.744197600000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23450,
+    "Name": "Obrovac",
+    "Latitude": 44.2007328,
+    "Longitude": 15.68111680000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22000,
+    "Name": "Šibenik",
+    "Latitude": 43.7350196,
+    "Longitude": 15.895204499999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34310,
+    "Name": "Pleternica",
+    "Latitude": 45.2862467,
+    "Longitude": 17.801819600000044,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51252,
+    "Name": "Klenovica",
+    "Latitude": 45.101632,
+    "Longitude": 14.844551599999932,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42243,
+    "Name": "Maruševec",
+    "Latitude": 46.2826156,
+    "Longitude": 16.185387600000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33515,
+    "Name": "Orahovica",
+    "Latitude": 45.5288007,
+    "Longitude": 17.88034730000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31204,
+    "Name": "Bijelo Brdo",
+    "Latitude": 45.5175929,
+    "Longitude": 18.87195410000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47242,
+    "Name": "Krnjak",
+    "Latitude": 45.3364969,
+    "Longitude": 15.598578399999951,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52429,
+    "Name": "Grožnjan",
+    "Latitude": 45.3796024,
+    "Longitude": 13.72261130000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31433,
+    "Name": "Podgorač",
+    "Latitude": 45.4586504,
+    "Longitude": 18.21783879999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22222,
+    "Name": "Skradin",
+    "Latitude": 43.8176375,
+    "Longitude": 15.92325500000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35212,
+    "Name": "Garčin",
+    "Latitude": 45.1819162,
+    "Longitude": 18.184573099999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23205,
+    "Name": "Bibinje",
+    "Latitude": 44.0731738,
+    "Longitude": 15.283831299999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52342,
+    "Name": "Svetvinčenat",
+    "Latitude": 45.0881811,
+    "Longitude": 13.881803200000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49214,
+    "Name": "Veliko Trgovišće",
+    "Latitude": 46.0039643,
+    "Longitude": 15.844965199999933,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22244,
+    "Name": "Betina",
+    "Latitude": 43.8083553,
+    "Longitude": 15.600202399999944,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10450,
+    "Name": "Jastrebarsko",
+    "Latitude": 45.6717716,
+    "Longitude": 15.65079030000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10312,
+    "Name": "Kloštar Ivanić",
+    "Latitude": 45.7380503,
+    "Longitude": 16.41664639999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44211,
+    "Name": "Blinjski Kut",
+    "Latitude": 45.4122429,
+    "Longitude": 16.4598608,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10437,
+    "Name": "Bestovje",
+    "Latitude": 45.8068679,
+    "Longitude": 15.810482399999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34308,
+    "Name": "Jakšić",
+    "Latitude": 45.35797669999999,
+    "Longitude": 17.764002300000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10380,
+    "Name": "Sveti Ivan Zelina",
+    "Latitude": 45.9597789,
+    "Longitude": 16.243213100000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42201,
+    "Name": "Beretinec",
+    "Latitude": 46.2481532,
+    "Longitude": 16.305576900000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35221,
+    "Name": "Velika Kopanica",
+    "Latitude": 45.1557541,
+    "Longitude": 18.3943984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32243,
+    "Name": "Orolik",
+    "Latitude": 45.2149778,
+    "Longitude": 18.984727499999963,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49218,
+    "Name": "Pregrada",
+    "Latitude": 46.16490719999999,
+    "Longitude": 15.75090929999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49234,
+    "Name": "Petrovsko",
+    "Latitude": 46.1676638,
+    "Longitude": 15.84182839999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23420,
+    "Name": "Benkovac",
+    "Latitude": 44.0334458,
+    "Longitude": 15.61110020000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35430,
+    "Name": "Okučani",
+    "Latitude": 45.2604055,
+    "Longitude": 17.198979399999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51260,
+    "Name": "Crikvenica",
+    "Latitude": 45.173583,
+    "Longitude": 14.69150490000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31542,
+    "Name": "Magadenovac",
+    "Latitude": 45.662299,
+    "Longitude": 18.186986599999955,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52425,
+    "Name": "Roč",
+    "Latitude": 45.3940518,
+    "Longitude": 14.046121599999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52428,
+    "Name": "Oprtalj",
+    "Latitude": 45.3819854,
+    "Longitude": 13.824202199999945,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31511,
+    "Name": "Đurđenovac",
+    "Latitude": 45.5408877,
+    "Longitude": 18.052896199999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49228,
+    "Name": "Brestovec Orehovički",
+    "Latitude": 46.07863690000001,
+    "Longitude": 15.985623099999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47283,
+    "Name": "Vivodina",
+    "Latitude": 45.6749123,
+    "Longitude": 15.398262400000021,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51322,
+    "Name": "Fužine",
+    "Latitude": 45.3049852,
+    "Longitude": 14.714836900000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51301,
+    "Name": "Brod na Kupi",
+    "Latitude": 45.4614983,
+    "Longitude": 14.853310700000065,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31551,
+    "Name": "Belišće",
+    "Latitude": 45.6845016,
+    "Longitude": 18.402356699999928,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47280,
+    "Name": "Ozalj",
+    "Latitude": 45.6128697,
+    "Longitude": 15.477857399999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40319,
+    "Name": "Belica",
+    "Latitude": 46.407473,
+    "Longitude": 16.522312400000033,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31300,
+    "Name": "Beli Manastir",
+    "Latitude": 45.7728664,
+    "Longitude": 18.610752400000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51559,
+    "Name": "Beli",
+    "Latitude": 45.11125759999999,
+    "Longitude": 14.354723700000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42214,
+    "Name": "Sveti Ilija",
+    "Latitude": 46.2459409,
+    "Longitude": 16.323855399999957,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51555,
+    "Name": "Belej",
+    "Latitude": 44.7663237,
+    "Longitude": 14.439544899999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49254,
+    "Name": "Belec",
+    "Latitude": 46.1341067,
+    "Longitude": 16.126511299999947,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10453,
+    "Name": "Gorica Svetojanska",
+    "Latitude": 45.7158835,
+    "Longitude": 15.592684200000008,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48312,
+    "Name": "Rasinja",
+    "Latitude": 46.1843479,
+    "Longitude": 16.705646800000068,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52434,
+    "Name": "Boljun",
+    "Latitude": 45.3026821,
+    "Longitude": 14.121184200000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51317,
+    "Name": "Crni Lug",
+    "Latitude": 45.4180224,
+    "Longitude": 14.70406939999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10293,
+    "Name": "Dubravica",
+    "Latitude": 45.9572248,
+    "Longitude": 15.732202099999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42242,
+    "Name": "Radovan",
+    "Latitude": 46.2296099,
+    "Longitude": 16.24919620000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34343,
+    "Name": "Bektež",
+    "Latitude": 45.3956097,
+    "Longitude": 17.926897800000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48265,
+    "Name": "Raven",
+    "Latitude": 45.99228799999999,
+    "Longitude": 16.47487799999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31403,
+    "Name": "Vuka",
+    "Latitude": 45.4391781,
+    "Longitude": 18.506617499999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51315,
+    "Name": "Mrkopalj",
+    "Latitude": 45.3148765,
+    "Longitude": 14.85206949999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44204,
+    "Name": "Jabukovac",
+    "Latitude": 45.3273461,
+    "Longitude": 16.29436129999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43284,
+    "Name": "Hercegovac",
+    "Latitude": 45.65604279999999,
+    "Longitude": 17.010546100000056,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47306,
+    "Name": "Saborsko",
+    "Latitude": 44.98370389999999,
+    "Longitude": 15.476410699999974,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23445,
+    "Name": "Srb",
+    "Latitude": 44.3713002,
+    "Longitude": 16.12546550000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52450,
+    "Name": "Vrsar",
+    "Latitude": 45.1499462,
+    "Longitude": 13.605257800000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42255,
+    "Name": "Donja Višnjica",
+    "Latitude": 46.293325,
+    "Longitude": 16.010240000000067,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42253,
+    "Name": "Bednja",
+    "Latitude": 46.2282258,
+    "Longitude": 15.982845199999929,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10432,
+    "Name": "Bregana",
+    "Latitude": 45.8399478,
+    "Longitude": 15.687831800000026,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10381,
+    "Name": "Bedenica",
+    "Latitude": 46.0333007,
+    "Longitude": 16.246617300000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42240,
+    "Name": "Ivanec",
+    "Latitude": 46.2228422,
+    "Longitude": 16.124679300000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49221,
+    "Name": "Bedekovčina",
+    "Latitude": 46.0443746,
+    "Longitude": 15.995256499999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35250,
+    "Name": "Oriovac",
+    "Latitude": 45.1647505,
+    "Longitude": 17.756043099999943,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47251,
+    "Name": "Bosiljevo",
+    "Latitude": 45.4130941,
+    "Longitude": 15.288548300000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51307,
+    "Name": "Prezid",
+    "Latitude": 45.6384516,
+    "Longitude": 14.576950699999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52000,
+    "Name": "Pazin",
+    "Latitude": 45.2397599,
+    "Longitude": 13.937309199999959,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35410,
+    "Name": "Nova Kapela",
+    "Latitude": 45.195653,
+    "Longitude": 17.643346899999983,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47222,
+    "Name": "Cetingrad",
+    "Latitude": 45.1591978,
+    "Longitude": 15.740328699999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34550,
+    "Name": "Pakrac",
+    "Latitude": 45.4388452,
+    "Longitude": 17.191742400000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43500,
+    "Name": "Daruvar",
+    "Latitude": 45.5930156,
+    "Longitude": 17.223839699999985,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48361,
+    "Name": "Kalinovac",
+    "Latitude": 46.0248064,
+    "Longitude": 17.113003700000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44415,
+    "Name": "Topusko",
+    "Latitude": 45.2962547,
+    "Longitude": 15.975378500000033,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44320,
+    "Name": "Kutina",
+    "Latitude": 45.4792811,
+    "Longitude": 16.776326700000027,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31306,
+    "Name": "Batina",
+    "Latitude": 45.8416463,
+    "Longitude": 18.84565139999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51251,
+    "Name": "Ledenice",
+    "Latitude": 45.1385896,
+    "Longitude": 14.84072249999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51243,
+    "Name": "Tribalj",
+    "Latitude": 45.2201284,
+    "Longitude": 14.67815459999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51218,
+    "Name": "Dražice",
+    "Latitude": 45.3889694,
+    "Longitude": 14.466549799999939,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53206,
+    "Name": "Brušane",
+    "Latitude": 44.501485,
+    "Longitude": 15.268858000000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51523,
+    "Name": "Baška",
+    "Latitude": 44.9710827,
+    "Longitude": 14.752226899999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52449,
+    "Name": "Červar Porat",
+    "Latitude": 45.2739623,
+    "Longitude": 13.598826000000031,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52475,
+    "Name": "Savudrija",
+    "Latitude": 45.49251,
+    "Longitude": 13.505925899999966,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23250,
+    "Name": "Pag",
+    "Latitude": 44.4369429,
+    "Longitude": 15.076898000000028,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43531,
+    "Name": "Veliki Bastaji",
+    "Latitude": 45.6454102,
+    "Longitude": 17.32311900000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21320,
+    "Name": "Baška Voda",
+    "Latitude": 43.3572645,
+    "Longitude": 16.95204769999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47245,
+    "Name": "Rakovica",
+    "Latitude": 44.9934013,
+    "Longitude": 15.651912700000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47264,
+    "Name": "Tounj",
+    "Latitude": 45.2525398,
+    "Longitude": 15.326143099999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42202,
+    "Name": "Trnovec Bartolovečki",
+    "Latitude": 46.2940292,
+    "Longitude": 16.400079699999992,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35252,
+    "Name": "Sibinj",
+    "Latitude": 45.1894522,
+    "Longitude": 17.90818760000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52427,
+    "Name": "Livade",
+    "Latitude": 45.3554257,
+    "Longitude": 13.82865849999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10455,
+    "Name": "Kostanjevac",
+    "Latitude": 45.7007765,
+    "Longitude": 15.470882999999958,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23262,
+    "Name": "Pašman",
+    "Latitude": 43.9563169,
+    "Longitude": 15.386180400000057,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53000,
+    "Name": "Gospić",
+    "Latitude": 44.5469337,
+    "Longitude": 15.375049499999932,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48268,
+    "Name": "Gornja Rijeka",
+    "Latitude": 46.10984879999999,
+    "Longitude": 16.391670599999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47201,
+    "Name": "Draganići",
+    "Latitude": 45.575331,
+    "Longitude": 15.610927500000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47252,
+    "Name": "Barilović",
+    "Latitude": 45.3818888,
+    "Longitude": 15.54855950000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53289,
+    "Name": "Lukovo Šugarje",
+    "Latitude": 44.436924,
+    "Longitude": 15.192510599999991,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43541,
+    "Name": "Sirač",
+    "Latitude": 45.5225873,
+    "Longitude": 17.250014999999962,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52460,
+    "Name": "Buje",
+    "Latitude": 45.4082114,
+    "Longitude": 13.658942300000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52420,
+    "Name": "Buzet",
+    "Latitude": 45.4075606,
+    "Longitude": 13.96512759999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52220,
+    "Name": "Labin",
+    "Latitude": 45.091589,
+    "Longitude": 14.123804899999982,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10413,
+    "Name": "Kravarsko",
+    "Latitude": 45.5856682,
+    "Longitude": 16.048022599999967,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52352,
+    "Name": "Kanfanar",
+    "Latitude": 45.1231315,
+    "Longitude": 13.839013000000023,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31322,
+    "Name": "Baranjsko Petrovo Selo",
+    "Latitude": 45.7549264,
+    "Longitude": 18.46933630000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32235,
+    "Name": "Bapska",
+    "Latitude": 45.2028539,
+    "Longitude": 19.24820139999997,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10410,
+    "Name": "Velika Gorica",
+    "Latitude": 45.71762589999999,
+    "Longitude": 16.090253500000017,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47250,
+    "Name": "Duga Resa",
+    "Latitude": 45.444995,
+    "Longitude": 15.502830499999959,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52100,
+    "Name": "Pula",
+    "Latitude": 44.8666232,
+    "Longitude": 13.849578800000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51280,
+    "Name": "Rab",
+    "Latitude": 44.7569096,
+    "Longitude": 14.759967500000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23422,
+    "Name": "Stankovci",
+    "Latitude": 43.90670830000001,
+    "Longitude": 15.69504310000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10382,
+    "Name": "Donja Zelina",
+    "Latitude": 45.9089962,
+    "Longitude": 16.22895349999999,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21276,
+    "Name": "Vrgorac",
+    "Latitude": 43.2055952,
+    "Longitude": 17.372184500000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23263,
+    "Name": "Ždrelac",
+    "Latitude": 44.0097418,
+    "Longitude": 15.284248400000024,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49245,
+    "Name": "Gornja Stubica",
+    "Latitude": 45.97628580000001,
+    "Longitude": 16.017533700000058,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47206,
+    "Name": "Lasinja",
+    "Latitude": 45.5282634,
+    "Longitude": 15.8591457,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47212,
+    "Name": "Skakavac",
+    "Latitude": 45.4633593,
+    "Longitude": 15.714071999999987,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49215,
+    "Name": "Tuhelj",
+    "Latitude": 46.0765849,
+    "Longitude": 15.749221199999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10340,
+    "Name": "Vrbovec",
+    "Latitude": 45.8839523,
+    "Longitude": 16.416766000000052,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51323,
+    "Name": "Lič",
+    "Latitude": 45.2779969,
+    "Longitude": 14.718176399999948,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32247,
+    "Name": "Banovci",
+    "Latitude": 45.1850574,
+    "Longitude": 19.065677100000016,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35254,
+    "Name": "Bebrina",
+    "Latitude": 45.0977527,
+    "Longitude": 17.835844500000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44321,
+    "Name": "Banova Jaruga",
+    "Latitude": 45.4410934,
+    "Longitude": 16.894747100000018,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33513,
+    "Name": "Zdenci",
+    "Latitude": 45.5825837,
+    "Longitude": 17.951751899999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20232,
+    "Name": "Slano",
+    "Latitude": 42.7872022,
+    "Longitude": 17.892599399999995,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10347,
+    "Name": "Rakovec",
+    "Latitude": 45.9324209,
+    "Longitude": 16.315344500000037,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40312,
+    "Name": "Štrigova",
+    "Latitude": 46.50011900000001,
+    "Longitude": 16.286431499999935,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22322,
+    "Name": "Ružić",
+    "Latitude": 43.82547470000001,
+    "Longitude": 16.25510350000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33517,
+    "Name": "Mikleuš",
+    "Latitude": 45.613027,
+    "Longitude": 17.809302900000034,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44400,
+    "Name": "Glina",
+    "Latitude": 45.3382624,
+    "Longitude": 16.090970900000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52207,
+    "Name": "Barban",
+    "Latitude": 45.0645315,
+    "Longitude": 14.017118500000038,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52341,
+    "Name": "Žminj",
+    "Latitude": 45.142806,
+    "Longitude": 13.906452899999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52211,
+    "Name": "Bale",
+    "Latitude": 45.0425618,
+    "Longitude": 13.785950599999978,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48000,
+    "Name": "Koprivnica",
+    "Latitude": 46.1639381,
+    "Longitude": 16.833475200000066,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33520,
+    "Name": "Slatina",
+    "Latitude": 45.701932,
+    "Longitude": 17.701144,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51223,
+    "Name": "Škrljevo",
+    "Latitude": 45.3416651,
+    "Longitude": 14.558402200000046,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51261,
+    "Name": "Bakarac",
+    "Latitude": 45.2802528,
+    "Longitude": 14.58276550000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51222,
+    "Name": "Bakar",
+    "Latitude": 45.30559849999999,
+    "Longitude": 14.531641100000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52447,
+    "Name": "Vižinada",
+    "Latitude": 45.330897,
+    "Longitude": 13.75949879999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47271,
+    "Name": "Netretić",
+    "Latitude": 45.5093465,
+    "Longitude": 15.412508200000048,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51511,
+    "Name": "Malinska",
+    "Latitude": 45.1250642,
+    "Longitude": 14.52882390000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21241,
+    "Name": "Obrovac Sinjski",
+    "Latitude": 43.7359774,
+    "Longitude": 16.693173900000033,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44330,
+    "Name": "Novska",
+    "Latitude": 45.33999,
+    "Longitude": 16.978596599999946,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10342,
+    "Name": "Dubrava",
+    "Latitude": 45.8376352,
+    "Longitude": 16.538287200000013,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20353,
+    "Name": "Mlinište",
+    "Latitude": 42.9922722,
+    "Longitude": 17.616161799999986,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47284,
+    "Name": "Kašt",
+    "Latitude": 45.6980152,
+    "Longitude": 15.369577800000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34552,
+    "Name": "Badljevina",
+    "Latitude": 45.5133133,
+    "Longitude": 17.192876800000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 40306,
+    "Name": "Macinec",
+    "Latitude": 46.3934136,
+    "Longitude": 16.324405100000035,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52445,
+    "Name": "Baderna",
+    "Latitude": 45.2128671,
+    "Longitude": 13.753538599999956,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 22320,
+    "Name": "Drniš",
+    "Latitude": 43.8602887,
+    "Longitude": 16.15586350000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20340,
+    "Name": "Ploče",
+    "Latitude": 43.0563106,
+    "Longitude": 17.43102490000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35404,
+    "Name": "Cernik",
+    "Latitude": 45.2861504,
+    "Longitude": 17.38031150000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44450,
+    "Name": "Hrvatska Dubica",
+    "Latitude": 45.1895094,
+    "Longitude": 16.798334899999986,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43270,
+    "Name": "Veliki Grđevac",
+    "Latitude": 45.7544209,
+    "Longitude": 17.049649000000045,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51242,
+    "Name": "Drivenik",
+    "Latitude": 45.2383826,
+    "Longitude": 14.652622699999938,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 33411,
+    "Name": "Gradina",
+    "Latitude": 45.8544223,
+    "Longitude": 17.511416899999972,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43203,
+    "Name": "Kapela",
+    "Latitude": 45.9881042,
+    "Longitude": 16.851799099999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20225,
+    "Name": "Babino Polje",
+    "Latitude": 42.7355023,
+    "Longitude": 17.550928099999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42208,
+    "Name": "Cestica",
+    "Latitude": 46.3706305,
+    "Longitude": 16.124110299999984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20226,
+    "Name": "Goveđari",
+    "Latitude": 42.7830036,
+    "Longitude": 17.363341399999968,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23000,
+    "Name": "Zadar",
+    "Latitude": 44.1473707,
+    "Longitude": 15.27437180000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43273,
+    "Name": "Bulinac",
+    "Latitude": 45.8163059,
+    "Longitude": 16.981440799999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43232,
+    "Name": "Berek",
+    "Latitude": 45.741372,
+    "Longitude": 16.83022230000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 44431,
+    "Name": "Donji Kukuruzari",
+    "Latitude": 45.2661045,
+    "Longitude": 16.481284200000005,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32276,
+    "Name": "Babina Greda",
+    "Latitude": 45.11673320000001,
+    "Longitude": 18.53701620000004,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52470,
+    "Name": "Umag",
+    "Latitude": 45.4372062,
+    "Longitude": 13.525720500000034,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52464,
+    "Name": "Kaštelir",
+    "Latitude": 45.3037535,
+    "Longitude": 13.689338799999973,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10414,
+    "Name": "Pokupsko",
+    "Latitude": 45.4847403,
+    "Longitude": 15.991791700000022,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21246,
+    "Name": "Aržano",
+    "Latitude": 43.5792031,
+    "Longitude": 17.001530000000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21224,
+    "Name": "Slatine",
+    "Latitude": 43.5008646,
+    "Longitude": 16.332410500000037,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 47240,
+    "Name": "Slunj",
+    "Latitude": 45.1150317,
+    "Longitude": 15.585484299999962,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32246,
+    "Name": "Lipovac",
+    "Latitude": 45.0561941,
+    "Longitude": 19.07286590000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48260,
+    "Name": "Križevci",
+    "Latitude": 46.0223684,
+    "Longitude": 16.54629209999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 42230,
+    "Name": "Ludbreg",
+    "Latitude": 46.2534684,
+    "Longitude": 16.61573139999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52463,
+    "Name": "Višnjan",
+    "Latitude": 45.2769546,
+    "Longitude": 13.72098440000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34543,
+    "Name": "Poljana",
+    "Latitude": 45.4699859,
+    "Longitude": 16.981233599999996,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34330,
+    "Name": "Velika",
+    "Latitude": 45.4555091,
+    "Longitude": 17.66238020000003,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31216,
+    "Name": "Antunovac",
+    "Latitude": 45.4893778,
+    "Longitude": 18.672802300000058,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 51244,
+    "Name": "Grižane - Belgrad",
+    "Latitude": 45.2026088,
+    "Longitude": 14.718412400000034,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52440,
+    "Name": "Poreč",
+    "Latitude": 45.22716519999999,
+    "Longitude": 13.594739900000036,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52446,
+    "Name": "Nova Vas",
+    "Latitude": 45.2603769,
+    "Longitude": 13.643830999999977,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 48317,
+    "Name": "Legrad",
+    "Latitude": 46.2959261,
+    "Longitude": 16.855256000000054,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32214,
+    "Name": "Tordinci",
+    "Latitude": 45.3703488,
+    "Longitude": 18.793664600000056,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 52466,
+    "Name": "Novigrad",
+    "Latitude": 45.3156571,
+    "Longitude": 13.561947099999998,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10370,
+    "Name": "Dugo Selo",
+    "Latitude": 45.8059451,
+    "Longitude": 16.23782499999993,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31224,
+    "Name": "Koška",
+    "Latitude": 45.54544019999999,
+    "Longitude": 18.283311599999934,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 32271,
+    "Name": "Rokovci Andrijaševci",
+    "Latitude": 45.23012019999999,
+    "Longitude": 18.74238170000001,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 49243,
+    "Name": "Oroslavje",
+    "Latitude": 45.99673420000001,
+    "Longitude": 15.915556700000025,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 43240,
+    "Name": "Čazma",
+    "Latitude": 45.748714,
+    "Longitude": 16.61311790000002,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34322,
+    "Name": "Brestovac",
+    "Latitude": 45.33024,
+    "Longitude": 17.59700470000007,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31205,
+    "Name": "Aljmaš",
+    "Latitude": 45.5290033,
+    "Longitude": 18.949181299999964,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34334,
+    "Name": "Kaptol",
+    "Latitude": 45.4312949,
+    "Longitude": 17.725881500000014,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53212,
+    "Name": "Klanac",
+    "Latitude": 44.6341731,
+    "Longitude": 15.298190400000067,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 53271,
+    "Name": "Krivi Put",
+    "Latitude": 45.03218409999999,
+    "Longitude": 14.961422099999936,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34000,
+    "Name": "Požega",
+    "Latitude": 45.3314763,
+    "Longitude": 17.674474799999984,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 35422,
+    "Name": "Zapolje",
+    "Latitude": 45.2287829,
+    "Longitude": 17.459668599999986,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10363,
+    "Name": "Belovar",
+    "Latitude": 45.8817591,
+    "Longitude": 16.174153899999965,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 31214,
+    "Name": "Laslovo",
+    "Latitude": 45.4146244,
+    "Longitude": 18.695916200000056,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 34312,
+    "Name": "Sesvete - Požega",
+    "Latitude": 45.340652,
+    "Longitude": 17.829514399999994,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 20344,
+    "Name": "Komin - Dalma",
+    "Latitude": 43.0521719,
+    "Longitude": 17.532764000000043,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 10361,
+    "Name": "Sesvete - Kraljevac",
+    "Latitude": 45.82724169999999,
+    "Longitude": 16.111253300000044,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 21238,
+    "Name": "Otok - Dalmacija",
+    "Latitude": 43.6862658,
+    "Longitude": 16.73451380000006,
+    "CountryId": "HR"
+  },
+  {
+    "Zip": 23312,
+    "Name": "Novigrad - Dalmacija",
+    "Latitude": 44.18117549999999,
+    "Longitude": 15.548969800000009,
+    "CountryId": "HR"
+  }
+]
